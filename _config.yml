@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jin Chen's Home Page"
-description              : "Welcome to Jin Chen's Homepage"
+title                    : "Welcome to Jin Chen's Homepage"
+description              : "a Ph.D. Student of UESTC"
 repository               : "HERECJ/HERECJ.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jin Chen (陈矜)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "a Ph.D Student of UESTC"
+  bio              : "Email chenjin at std.uestc.edu.cn"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=h-v_wdIAAAAJ"
   email            : "chenjin@std.uestc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
