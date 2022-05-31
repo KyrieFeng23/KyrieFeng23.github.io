@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Welcome to Jin Chen's Homepage"
-description              : "a Ph.D. Student of UESTC"
+description              : "Email chenjin at std.uestc.edu.cn"
 repository               : "HERECJ/HERECJ.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jin Chen (陈矜)"
+  name             : "Jin Chen 陈矜"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Email chenjin at std.uestc.edu.cn"
+  bio              : "a Ph.D. Student of UESTC"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
