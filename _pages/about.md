@@ -57,7 +57,7 @@ I am currently a Ph.D. student under the advisory of Prof. [Defu Lian](http://st
 - First-class People's Scholarship
 - AAAI 2019 Travel Award
 
-# &#x1F4CA; Services
+# &#x1F4CA; Professional Services
 
 #### Program Committee Members
 - Sub-Reviewer, WWW 2022
