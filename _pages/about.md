@@ -39,14 +39,13 @@ I am currently a Ph.D. student under the advisory of Prof. [Defu Lian](http://st
 8. **Jin Chen**, Tiezheng Ge, Gangwei Jiang, Zhiqiang Zhang, Defu Lian* and Kai Zheng. Efficient Optimal Selection for Composited Advertising Creatives with Tree Structure. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. (**AAAI 2021**)
 1. **Jin Chen**, Defu Lian* and Kai Zheng. Collaborative filtering with ranking-based priors on unknown ratings. IEEE Intelligent Systems, 2020, 35(5): 38-49.
 1. **Jin Chen**, Defu Lian* and Kai Zheng. Improving one-class collaborative filtering via ranking-based implicit regularizer. Proceedings of the AAAI Conference on Artificial Intelligence. 2019. (**AAAI 2019**)
-
 &emsp; **Note**: * indicates the corresponding author
 
 # 📖 Educations
 
 - *2014.09 - 2018.06*, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Bachelor. 
-- *2018.09 - now*, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Ph.D. student.
-  - Successive Postgraduate and Doctoral Program from 2020
+- *2020.09 - 2024.06 (expected)*, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Ph.D. student.
+  - Master from 2018 and Successive Postgraduate and Doctoral Program from 2020
 
 # 💻 Internships
 
@@ -56,8 +55,9 @@ I am currently a Ph.D. student under the advisory of Prof. [Defu Lian](http://st
 
 # 🎖 Honors and Awards
 
-- Academic Newcomer Award, 5%, UESTC, 2022
-- First-class People's Scholarship
+- UESTC Academic Newcomer Award, 2022
+- First-class People's Scholarship (2019, 2021)
+- Alibaba’s Excellent Research Intern, 2020
 - AAAI 2019 Travel Award
 
 # ⏳ Services
@@ -78,7 +78,7 @@ I am currently a Ph.D. student under the advisory of Prof. [Defu Lian](http://st
 + Propose a ranking-based regularizer for one-class collaborative filtering by hypothesizing that users’ preference scores for uninteracted items should not deviate a lot from each other.
 + The research has been accepted by AAAI 2019, TKDE 2021.
 
-#### Advertising Creative Optimization <font size="4">(Alibaba Innovative Research, Alimama Group) </font>
+#### Advertising Creative Optimization <font size="3">(Alibaba Innovative Research, Alimama Group) </font>
 + Lead and accomplish the research of online advertising creative optimization.
 + Deploy the algorithm in the production environment and increase CTR by 5%.
 + The research has been accepted by AAAI 2021, WWW 2021.
@@ -88,6 +88,6 @@ I am currently a Ph.D. student under the advisory of Prof. [Defu Lian](http://st
 + Design an importance resampling based sampler. The research has been accepted by WWW 2022.
 + Propose a Cache-Augmented Inbatch Importance Resampling for training recommender retrievers. The research has been submitted to NeurIPS 2022.
 
-#### Join Order Selection for Database Optimizer <font size="4"> (Huawei Cloud Database Innovation Lab) </font>
+#### Join Order Selection for Database Optimizer <font size="3"> (Huawei Cloud Database Innovation Lab) </font>
 + Lead and accomplish the research of RL-based Join Order Selection.
 + The research has been accepted by KDD 2022.
