@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student under the advisory of Prof. [Defu Lian](http://staff.ustc.edu.cn/~liandefu/) and Prof. [Kai Zheng](https://zheng-kai.com/) in School of Computer Science and Engineering, University of Electronic Science and Technology of China(UESTC). I got my B.S. degree from the University of Electronic Science and Technology of China in 2018. My research interests include recommender systems, negative sampling and information retrieval.
+I am currently a Ph.D. student under the advisory of Prof. [Defu Lian](http://staff.ustc.edu.cn/~liandefu/) and Prof. [Kai Zheng](https://zheng-kai.com/) in School of Computer Science and Engineering, [University of Electronic Science and Technology of China(UESTC)](https://www.uestc.edu.cn/). I got my B.S. degree from the University of Electronic Science and Technology of China in 2018. My research interests include data mining and recommender systems.
 
 
 
@@ -40,10 +40,13 @@ I am currently a Ph.D. student under the advisory of Prof. [Defu Lian](http://st
 1. **Jin Chen**, Defu Lian* and Kai Zheng. Collaborative filtering with ranking-based priors on unknown ratings. IEEE Intelligent Systems, 2020, 35(5): 38-49.
 1. **Jin Chen**, Defu Lian* and Kai Zheng. Improving one-class collaborative filtering via ranking-based implicit regularizer. Proceedings of the AAAI Conference on Artificial Intelligence. 2019. (**AAAI 2019**)
 
+&emsp; **Note**: * indicates the corresponding author
+
 # 📖 Educations
 
 - *2014.09 - 2018.06*, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Bachelor. 
-- *2020.09 - now*, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Ph.D. student. 
+- *2018.09 - now*, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Ph.D. student.
+  - Successive Postgraduate and Doctoral Program from 2020
 
 # 💻 Internships
 
@@ -57,7 +60,7 @@ I am currently a Ph.D. student under the advisory of Prof. [Defu Lian](http://st
 - First-class People's Scholarship
 - AAAI 2019 Travel Award
 
-# &#x1F4CA; Services
+# ⏳ Services
 
 #### Program Committee Members
 - Sub-Reviewer, WWW 2022
@@ -68,3 +71,23 @@ I am currently a Ph.D. student under the advisory of Prof. [Defu Lian](http://st
 
 #### Journal Invited Reviewer
 - ACM Transactions on Information Systems (TOIS)
+
+# 📆 Research Experience
+
+#### Ranking-based Implicit Regularization for One-class collaborative filtering
++ Propose a ranking-based regularizer for one-class collaborative filtering by hypothesizing that users’ preference scores for uninteracted items should not deviate a lot from each other.
++ The research has been accepted by AAAI 2019, TKDE 2021.
+
+#### Advertising Creative Optimization <font size="4">(Alibaba Innovative Research, Alimama Group) </font>
++ Lead and accomplish the research of online advertising creative optimization.
++ Deploy the algorithm in the production environment and increase CTR by 5%.
++ The research has been accepted by AAAI 2021, WWW 2021.
+
+#### Dynamic Negative Sampling for Recommender Systems
++ Propose a dynamic sampler via inverted multi-index. The research has been accepted by WWW 2022.
++ Design an importance resampling based sampler. The research has been accepted by WWW 2022.
++ Propose a Cache-Augmented Inbatch Importance Resampling for training recommender retrievers. The research has been submitted to NeurIPS 2022.
+
+#### Join Order Selection for Database Optimizer <font size="4"> (Huawei Cloud Database Innovation Lab) </font>
++ Lead and accomplish the research of RL-based Join Order Selection.
++ The research has been accepted by KDD 2022.
