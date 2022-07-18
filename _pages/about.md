@@ -61,7 +61,7 @@ I am currently a Ph.D. student under the advisory of Prof. [Defu Lian](http://st
 - Alibaba’s Excellent Research Intern, 2020
 - AAAI 2019 Travel Award
 
-# ⏳ Services
+# ⏳ Professional Services
 
 #### Program Committee Members
 - Sub-Reviewer, WWW 2022
