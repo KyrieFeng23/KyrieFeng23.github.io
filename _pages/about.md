@@ -39,7 +39,8 @@ I am currently a Ph.D. student under the advisory of Prof. [Defu Lian](http://st
 8. **Jin Chen**, Tiezheng Ge, Gangwei Jiang, Zhiqiang Zhang, Defu Lian* and Kai Zheng. Efficient Optimal Selection for Composited Advertising Creatives with Tree Structure. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. (**AAAI 2021**)
 1. **Jin Chen**, Defu Lian* and Kai Zheng. Collaborative filtering with ranking-based priors on unknown ratings. IEEE Intelligent Systems, 2020, 35(5): 38-49.
 1. **Jin Chen**, Defu Lian* and Kai Zheng. Improving one-class collaborative filtering via ranking-based implicit regularizer. Proceedings of the AAAI Conference on Artificial Intelligence. 2019. (**AAAI 2019**)
-&emsp; **Note**: * indicates the corresponding author
+
+&emsp; &emsp; &emsp; &emsp; **Note**: * indicates the corresponding author
 
 # 📖 Educations
 
