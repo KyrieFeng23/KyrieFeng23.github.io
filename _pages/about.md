@@ -28,7 +28,7 @@ I am currently a Ph.D. student under the advisory of Prof. [Defu Lian](http://st
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-
+1. Shuncheng Liu, Xu Chen, Yan Zhao, **Jin Chen**, Rui Zhou and Kai Zheng*: Efficient Learning with Pseudo Labels for Query Cost Estimation. Proceedings of the 30th ACM International Conference on Information & Knowledge Management, accepted. (**CIKM 2022**)
 1. **Jin Chen**, Guanyu Ye, Yan Zhao, Shuncheng Liu, Liwei Deng, Xu Chen, Rui Zhou and Kai Zheng*. Efficient Join Order Selection Learning with Graph-based Representation. The 28th ACM SIGKDD Conference on Knowledge Discovery and Date Mining, accepted, (**KDD 2022**)
 2. Rui Fan, **Jin Chen**, Jin Zhang, Defu Lian* and Enhong Chen. Improving Implicit Alternating Least Squares with Ring-based Regularization. The 45th ACM SIGIR Conference on Research and Development in Information Retrieval, accepted. (**SIGIR 2022**)
 3. **Jin Chen**, Defu Lian * , Binbin Jin, Kai Zheng * and Enhong Chen. Learning Recommenders for Implicit Feedback with Importance Resampling. Proceedings of the ACM Web Conference 2022. (**WWW 2022**)
@@ -65,7 +65,7 @@ I am currently a Ph.D. student under the advisory of Prof. [Defu Lian](http://st
 
 #### Program Committee Members
 - Sub-Reviewer, WWW 2022
-- PC member, AAAI 2022, AAAI 2021
+- PC member, AAAI 2022, AAAI 2021, AAAI 2023
 - PC member, IJCAI 2022
 - PC member, CIKM 2022
 - PC member, ECML-PKDD 2022
