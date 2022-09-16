@@ -28,8 +28,9 @@ I am currently a Ph.D. student under the advisory of Prof. [Defu Lian](http://st
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-1. Shuncheng Liu, Xu Chen, Yan Zhao, **Jin Chen**, Rui Zhou and Kai Zheng*: Efficient Learning with Pseudo Labels for Query Cost Estimation. The 30th ACM International Conference on Information & Knowledge Management, accepted. (**CIKM 2022**)
-1. **Jin Chen**, Guanyu Ye, Yan Zhao, Shuncheng Liu, Liwei Deng, Xu Chen, Rui Zhou and Kai Zheng*. Efficient Join Order Selection Learning with Graph-based Representation. The 28th ACM SIGKDD Conference on Knowledge Discovery and Date Mining, accepted, (**KDD 2022**)
+1. **Jin Chen**, Defu Lian, Yucheng Li, Baoyun Wang, Kai Zheng, Enhong Chen. Cache-Augmented Inbatch Importance Resampling for Training Recommender Retriever. The 35th Conference on Neural Information Processing Systems, accepted. (**NeurIPS 2022**)
+1. Shuncheng Liu, Xu Chen, Yan Zhao, **Jin Chen**, Rui Zhou and Kai Zheng*. Efficient Learning with Pseudo Labels for Query Cost Estimation. The 30th ACM International Conference on Information & Knowledge Management, accepted. (**CIKM 2022**)
+1. **Jin Chen**, Guanyu Ye, Yan Zhao, Shuncheng Liu, Liwei Deng, Xu Chen, Rui Zhou and Kai Zheng*. Efficient Join Order Selection Learning with Graph-based Representation. The 28th ACM SIGKDD Conference on Knowledge Discovery and Date Mining, accepted. (**KDD 2022**)
 2. Rui Fan, **Jin Chen**, Jin Zhang, Defu Lian* and Enhong Chen. Improving Implicit Alternating Least Squares with Ring-based Regularization. Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2022**) 
 4. **Jin Chen**, Defu Lian * , Binbin Jin, Kai Zheng * and Enhong Chen. Learning Recommenders for Implicit Feedback with Importance Resampling. Proceedings of the ACM Web Conference 2022. (**WWW 2022**)
 5. **Jin Chen**, Defu Lian*, Binbin Jin, Xu Huang, Kai Zheng and Enhong Chen. Fast Variational AutoEncoder with Inverted Multi-Index for Collaborative Filtering. Proceedings of the ACM Web Conference 2022. (**WWW 2022**)
@@ -73,7 +74,7 @@ I am currently a Ph.D. student under the advisory of Prof. [Defu Lian](http://st
 #### Journal Invited Reviewer
 - ACM Transactions on Information Systems (TOIS)
 
-# 📆 Research Experience
+<!-- # 📆 Research Experience
 
 #### Ranking-based Implicit Regularization for One-class collaborative filtering
 + Propose a ranking-based regularizer for one-class collaborative filtering by hypothesizing that users’ preference scores for uninteracted items should not deviate a lot from each other.
@@ -91,4 +92,4 @@ I am currently a Ph.D. student under the advisory of Prof. [Defu Lian](http://st
 
 #### Join Order Selection for Database Optimizer <font size="3"> (Huawei Cloud Database Innovation Lab) </font>
 + Lead and accomplish the research of RL-based Join Order Selection.
-+ The research has been accepted by KDD 2022.
++ The research has been accepted by KDD 2022. -->
