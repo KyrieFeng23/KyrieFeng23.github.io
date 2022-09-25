@@ -46,7 +46,7 @@ I am currently a third-year Ph.D. student under the advisory of Prof. [Defu Lian
 # 📖 Educations
 
 - *2014.09 - 2018.06*, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Bachelor. 
-- *2020.09 - 2023.12 (expected)*, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Ph.D. student.
+- *2020.09 - 2024.06 (expected)*, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Ph.D. student.
   - Master from 2018 and Successive Postgraduate and Doctoral Program from 2020
 
 # 💻 Internships
