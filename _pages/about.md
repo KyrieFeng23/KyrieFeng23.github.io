@@ -57,8 +57,9 @@ I am currently a third-year Ph.D. student under the advisory of Prof. [Defu Lian
 
 # 🎖 Honors and Awards
 
+- National Scholarship, 2022
 - UESTC Academic Newcomer Award, 2022
-- First-class People's Scholarship (2019, 2021)
+- First-class People's Scholarship (2019, 2021, 2022)
 - Alibaba’s Excellent Research Intern, 2020
 - AAAI 2019 Travel Award
 
@@ -66,13 +67,17 @@ I am currently a third-year Ph.D. student under the advisory of Prof. [Defu Lian
 
 #### Program Committee Members
 - Sub-Reviewer, WWW 2022
-- PC member, AAAI 2022, AAAI 2021, AAAI 2023
-- PC member, IJCAI 2022
+- PC member, KDD 2023
+- PC member, AAAI 2021, AAAI 2022, AAAI 2023
+- PC member, IJCAI 2022, IJCAI 2023
 - PC member, CIKM 2022
 - PC member, ECML-PKDD 2022
+- PC member, BDMS@DASFAA 2023
 
 #### Journal Invited Reviewer
 - ACM Transactions on Information Systems (TOIS)
+- Journal of Data & Knowledge Engineering
+- Journal of Data Science and Analytics
 
 <!-- # 📆 Research Experience
 
