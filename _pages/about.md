@@ -28,6 +28,8 @@ I am currently a third-year Ph.D. student under the advisory of Prof. [Defu Lian
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+1. Xu Huang, Defu Lian, **Jin Chen**, Zheng Liu, Xing Xie, Enhong Chen. Cooperative Retriever and Ranker in Deep Recommenders. The Web Conference 2023. (**WWW 2023**) 
+1. Rui Fan, Yuanhao Pu, **Jin Chen**, Zhihao Zhu, Defu Lian, Enhong Chen. AutoS2AE: Automate to Regularize Sparse Shallow Autoencoders for Recommendation. The Web Conference 2023. (**WWW 2023**)
 1. **Jin Chen**, Defu Lian, Yucheng Li, Baoyun Wang, Kai Zheng, Enhong Chen. Cache-Augmented Inbatch Importance Resampling for Training Recommender Retriever. The 36th Conference on Neural Information Processing Systems, accepted. (**NeurIPS 2022**)
 1. Shuncheng Liu, Xu Chen, Yan Zhao, **Jin Chen**, Rui Zhou and Kai Zheng*. Efficient Learning with Pseudo Labels for Query Cost Estimation. The 30th ACM International Conference on Information & Knowledge Management, accepted. (**CIKM 2022**)
 1. **Jin Chen**, Guanyu Ye, Yan Zhao, Shuncheng Liu, Liwei Deng, Xu Chen, Rui Zhou and Kai Zheng*. Efficient Join Order Selection Learning with Graph-based Representation. The 28th ACM SIGKDD Conference on Knowledge Discovery and Date Mining, accepted. (**KDD 2022**)
@@ -71,7 +73,7 @@ I am currently a third-year Ph.D. student under the advisory of Prof. [Defu Lian
 - PC member, AAAI 2021, AAAI 2022, AAAI 2023
 - PC member, IJCAI 2022, IJCAI 2023
 - PC member, CIKM 2022
-- PC member, ECML-PKDD 2022
+- PC member, ECML-PKDD 2022, 2023
 - PC member, BDMS@DASFAA 2023
 
 #### Journal Invited Reviewer
