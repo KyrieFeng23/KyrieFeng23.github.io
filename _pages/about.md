@@ -28,6 +28,7 @@ I am currently a third-year Ph.D. student under the advisory of Prof. [Defu Lian
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+1. Defu Lian, Xu Huang, Xiaolong Chen, **Jin Chen**, Yankai Wang, Haoran Jin, Rui Fan, Xingmei Wang, Zheng Liu, Le Wu and Enhong Chen. RecStudio: Towards a Highly-Modularized Recommender System. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2023**, resource track). [Recstudio](https://github.com/ustcml/RecStudio) 
 1. Xu Huang, Defu Lian, **Jin Chen**, Zheng Liu, Xing Xie, Enhong Chen. Cooperative Retriever and Ranker in Deep Recommenders. The Web Conference 2023. (**WWW 2023**) 
 1. Rui Fan, Yuanhao Pu, **Jin Chen**, Zhihao Zhu, Defu Lian, Enhong Chen. AutoS2AE: Automate to Regularize Sparse Shallow Autoencoders for Recommendation. The Web Conference 2023. (**WWW 2023**)
 1. **Jin Chen**, Defu Lian, Yucheng Li, Baoyun Wang, Kai Zheng, Enhong Chen. Cache-Augmented Inbatch Importance Resampling for Training Recommender Retriever. The 36th Conference on Neural Information Processing Systems, accepted. (**NeurIPS 2022**)
