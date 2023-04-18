@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year Ph.D. student under the advisory of Prof. [Defu Lian](http://staff.ustc.edu.cn/~liandefu/) and Prof. [Kai Zheng](https://zheng-kai.com/) in School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/). I got my B.S. degree from the University of Electronic Science and Technology of China in 2018. My research interests include data mining and recommender systems.
+I am currently a third-year Ph.D. student under the advisory of Prof. [Kai Zheng](https://zheng-kai.com/) and Prof. [Defu Lian](http://staff.ustc.edu.cn/~liandefu/) in School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/). I got my B.S. degree from the University of Electronic Science and Technology of China in 2018. My research interests include data mining, especially on efficient recommender systems and AI4DB.
 
 
 
@@ -31,18 +31,19 @@ I am currently a third-year Ph.D. student under the advisory of Prof. [Defu Lian
 1. Defu Lian, Xu Huang, Xiaolong Chen, **Jin Chen**, Yankai Wang, Haoran Jin, Rui Fan, Xingmei Wang, Zheng Liu, Le Wu and Enhong Chen. RecStudio: Towards a Highly-Modularized Recommender System. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2023**, resource track). [Recstudio](https://github.com/ustcml/RecStudio) 
 1. Xu Huang, Defu Lian, **Jin Chen**, Zheng Liu, Xing Xie, Enhong Chen. Cooperative Retriever and Ranker in Deep Recommenders. The Web Conference 2023. (**WWW 2023**) 
 1. Rui Fan, Yuanhao Pu, **Jin Chen**, Zhihao Zhu, Defu Lian, Enhong Chen. AutoS2AE: Automate to Regularize Sparse Shallow Autoencoders for Recommendation. The Web Conference 2023. (**WWW 2023**)
-1. **Jin Chen**, Defu Lian, Yucheng Li, Baoyun Wang, Kai Zheng, Enhong Chen. Cache-Augmented Inbatch Importance Resampling for Training Recommender Retriever. The 36th Conference on Neural Information Processing Systems, accepted. (**NeurIPS 2022**)
-1. Shuncheng Liu, Xu Chen, Yan Zhao, **Jin Chen**, Rui Zhou and Kai Zheng*. Efficient Learning with Pseudo Labels for Query Cost Estimation. The 30th ACM International Conference on Information & Knowledge Management, accepted. (**CIKM 2022**)
-1. **Jin Chen**, Guanyu Ye, Yan Zhao, Shuncheng Liu, Liwei Deng, Xu Chen, Rui Zhou and Kai Zheng*. Efficient Join Order Selection Learning with Graph-based Representation. The 28th ACM SIGKDD Conference on Knowledge Discovery and Date Mining, accepted. (**KDD 2022**)
-2. Rui Fan, **Jin Chen**, Jin Zhang, Defu Lian* and Enhong Chen. Improving Implicit Alternating Least Squares with Ring-based Regularization. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2022**) 
-4. **Jin Chen**, Defu Lian * , Binbin Jin, Kai Zheng * and Enhong Chen. Learning Recommenders for Implicit Feedback with Importance Resampling. The Web Conference 2022. (**WWW 2022**)
-5. **Jin Chen**, Defu Lian*, Binbin Jin, Xu Huang, Kai Zheng and Enhong Chen. Fast Variational AutoEncoder with Inverted Multi-Index for Collaborative Filtering. The Web Conference 2022. (**WWW 2022**)
-6. Gangwei Jiang, Hao Wang, **Jin Chen**, Haoyu Wang, Defu Lian* and Enhong Chen. xLightFM: Extremely Memory-Efficient Factorization Machine. The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2021**)
-7. **Jin Chen**, Ju Xu, Gangwei Jiang, Tiezheng Ge, Zhiqiang Zhang, Defu Lian* and Kai Zheng. Automated Creative Optimization for E-Commerce Advertising. The 30th the Web Conference 2021. (**WWW 2021**)
-8. Defu Lian, **Jin Chen**, Kai Zheng * , Enhong Chen *  and Xiaofang Zhou. Ranking-based Implicit Regularization for One-Class Collaborative Filtering. IEEE Transactions on Knowledge and Data Engineering, 2021. (**TKDE**)
-9. **Jin Chen**, Tiezheng Ge, Gangwei Jiang, Zhiqiang Zhang, Defu Lian* and Kai Zheng. Efficient Optimal Selection for Composited Advertising Creatives with Tree Structure. The 35th AAAI Conference on Artificial Intelligence. 2021. (**AAAI 2021**)
-10. **Jin Chen**, Defu Lian* and Kai Zheng. Collaborative filtering with ranking-based priors on unknown ratings. IEEE Intelligent Systems, 2020, 35(5): 38-49.
-11. **Jin Chen**, Defu Lian* and Kai Zheng. Improving one-class collaborative filtering via ranking-based implicit regularizer. The 33rd AAAI Conference on Artificial Intelligence. 2019. (**AAAI 2019**)
+2. Yupu Zhang, Liwei Deng, Yan Zhao, **Jin Chen**, Kai Zheng: SimiDTR: Deep Trajectory Recovery with Enhanced Trajectory Similarity. Database Systems for Advanced Applications: 27th International Conference. (**DASFAA 2021**)
+3. **Jin Chen**, Defu Lian, Yucheng Li, Baoyun Wang, Kai Zheng, Enhong Chen. Cache-Augmented Inbatch Importance Resampling for Training Recommender Retriever. The 36th Conference on Neural Information Processing Systems, accepted. (**NeurIPS 2022**)
+4. Shuncheng Liu, Xu Chen, Yan Zhao, **Jin Chen**, Rui Zhou and Kai Zheng*. Efficient Learning with Pseudo Labels for Query Cost Estimation. The 30th ACM International Conference on Information & Knowledge Management, accepted. (**CIKM 2022**)
+5. **Jin Chen**, Guanyu Ye, Yan Zhao, Shuncheng Liu, Liwei Deng, Xu Chen, Rui Zhou and Kai Zheng*. Efficient Join Order Selection Learning with Graph-based Representation. The 28th ACM SIGKDD Conference on Knowledge Discovery and Date Mining, accepted. (**KDD 2022**)
+6. Rui Fan, **Jin Chen**, Jin Zhang, Defu Lian* and Enhong Chen. Improving Implicit Alternating Least Squares with Ring-based Regularization. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2022**) 
+7. **Jin Chen**, Defu Lian * , Binbin Jin, Kai Zheng * and Enhong Chen. Learning Recommenders for Implicit Feedback with Importance Resampling. The Web Conference 2022. (**WWW 2022**)
+8. **Jin Chen**, Defu Lian*, Binbin Jin, Xu Huang, Kai Zheng and Enhong Chen. Fast Variational AutoEncoder with Inverted Multi-Index for Collaborative Filtering. The Web Conference 2022. (**WWW 2022**)
+9. Gangwei Jiang, Hao Wang, **Jin Chen**, Haoyu Wang, Defu Lian* and Enhong Chen. xLightFM: Extremely Memory-Efficient Factorization Machine. The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2021**)
+10. **Jin Chen**, Ju Xu, Gangwei Jiang, Tiezheng Ge, Zhiqiang Zhang, Defu Lian* and Kai Zheng. Automated Creative Optimization for E-Commerce Advertising. The 30th the Web Conference 2021. (**WWW 2021**)
+11. Defu Lian, **Jin Chen**, Kai Zheng * , Enhong Chen *  and Xiaofang Zhou. Ranking-based Implicit Regularization for One-Class Collaborative Filtering. IEEE Transactions on Knowledge and Data Engineering, 2021. (**TKDE**)
+12. **Jin Chen**, Tiezheng Ge, Gangwei Jiang, Zhiqiang Zhang, Defu Lian* and Kai Zheng. Efficient Optimal Selection for Composited Advertising Creatives with Tree Structure. The 35th AAAI Conference on Artificial Intelligence. 2021. (**AAAI 2021**)
+13. **Jin Chen**, Defu Lian* and Kai Zheng. Collaborative filtering with ranking-based priors on unknown ratings. IEEE Intelligent Systems, 2020, 35(5): 38-49.
+14. **Jin Chen**, Defu Lian* and Kai Zheng. Improving one-class collaborative filtering via ranking-based implicit regularizer. The 33rd AAAI Conference on Artificial Intelligence. 2019. (**AAAI 2019**)
 
 &emsp; &emsp; &emsp; &emsp; **Note**: * indicates the corresponding author
 
