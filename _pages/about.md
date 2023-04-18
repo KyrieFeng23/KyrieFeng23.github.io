@@ -32,9 +32,9 @@ I am currently a third-year Ph.D. student under the advisory of Prof. [Kai Zheng
 1. Xu Huang, Defu Lian, **Jin Chen**, Zheng Liu, Xing Xie, Enhong Chen. Cooperative Retriever and Ranker in Deep Recommenders. The Web Conference 2023. (**WWW 2023**) 
 1. Rui Fan, Yuanhao Pu, **Jin Chen**, Zhihao Zhu, Defu Lian, Enhong Chen. AutoS2AE: Automate to Regularize Sparse Shallow Autoencoders for Recommendation. The Web Conference 2023. (**WWW 2023**)
 2. Yupu Zhang, Liwei Deng, Yan Zhao, **Jin Chen**, Kai Zheng: SimiDTR: Deep Trajectory Recovery with Enhanced Trajectory Similarity. The 28th International Conference on Database Systems for Advanced Applications. (**DASFAA 2023**)
-3. **Jin Chen**, Defu Lian, Yucheng Li, Baoyun Wang, Kai Zheng, Enhong Chen. Cache-Augmented Inbatch Importance Resampling for Training Recommender Retriever. The 36th Conference on Neural Information Processing Systems, accepted. (**NeurIPS 2022**)
+3. **Jin Chen**, Defu Lian, Yucheng Li, Baoyun Wang, Kai Zheng, Enhong Chen. Cache-Augmented Inbatch Importance Resampling for Training Recommender Retriever. The 36th Conference on Neural Information Processing Systems. (**NeurIPS 2022**)
 4. Shuncheng Liu, Xu Chen, Yan Zhao, **Jin Chen**, Rui Zhou and Kai Zheng*. Efficient Learning with Pseudo Labels for Query Cost Estimation. The 30th ACM International Conference on Information & Knowledge Management. (**CIKM 2022**)
-5. **Jin Chen**, Guanyu Ye, Yan Zhao, Shuncheng Liu, Liwei Deng, Xu Chen, Rui Zhou and Kai Zheng*. Efficient Join Order Selection Learning with Graph-based Representation. The 28th ACM SIGKDD Conference on Knowledge Discovery and Date Mining, accepted. (**KDD 2022**)
+5. **Jin Chen**, Guanyu Ye, Yan Zhao, Shuncheng Liu, Liwei Deng, Xu Chen, Rui Zhou and Kai Zheng*. Efficient Join Order Selection Learning with Graph-based Representation. The 28th ACM SIGKDD Conference on Knowledge Discovery and Date Mining. (**KDD 2022**)
 6. Rui Fan, **Jin Chen**, Jin Zhang, Defu Lian* and Enhong Chen. Improving Implicit Alternating Least Squares with Ring-based Regularization. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2022**) 
 7. **Jin Chen**, Defu Lian * , Binbin Jin, Kai Zheng * and Enhong Chen. Learning Recommenders for Implicit Feedback with Importance Resampling. The Web Conference 2022. (**WWW 2022**)
 8. **Jin Chen**, Defu Lian*, Binbin Jin, Xu Huang, Kai Zheng and Enhong Chen. Fast Variational AutoEncoder with Inverted Multi-Index for Collaborative Filtering. The Web Conference 2022. (**WWW 2022**)
@@ -70,10 +70,10 @@ I am currently a third-year Ph.D. student under the advisory of Prof. [Kai Zheng
 # ⏳ Professional Services
 
 #### Program Committee Members
-- Sub-Reviewer, WWW 2022
 - PC member, KDD 2023
 - PC member, AAAI 2021, AAAI 2022, AAAI 2023
 - PC member, IJCAI 2022, IJCAI 2023
+- Sub-Reviewer, WWW 2022
 - PC member, CIKM 2022
 - PC member, ECML-PKDD 2022, 2023
 - PC member, BDMS@DASFAA 2023
