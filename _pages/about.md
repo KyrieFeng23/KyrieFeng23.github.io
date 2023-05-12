@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year Ph.D. student under the advisory of Prof. [Kai Zheng](https://zheng-kai.com/) and Prof. [Defu Lian](http://staff.ustc.edu.cn/~liandefu/) in School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/). I got my B.S. degree from the University of Electronic Science and Technology of China in 2018. My research interests include data mining, especially on efficient recommender systems.
+I am currently a third-year Ph.D. candidate under the advisory of Prof. [Kai Zheng](https://zheng-kai.com/) and Prof. [Defu Lian](http://staff.ustc.edu.cn/~liandefu/) in School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/). I got my B.S. degree from the University of Electronic Science and Technology of China in 2018. My research interests include data mining, especially on efficient recommender systems.
 
 
 
@@ -73,7 +73,7 @@ I am currently a third-year Ph.D. student under the advisory of Prof. [Kai Zheng
 - PC member, AAAI 2021, AAAI 2022, AAAI 2023
 - PC member, IJCAI 2022, IJCAI 2023
 - Sub-Reviewer, WWW 2022
-- PC member, CIKM 2022
+- PC member, CIKM 2022, 2023
 - PC member, ECML-PKDD 2022, 2023
 - PC member, BDMS@DASFAA 2023
 
