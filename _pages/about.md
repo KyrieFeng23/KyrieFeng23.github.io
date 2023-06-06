@@ -72,9 +72,10 @@ I am currently a third-year Ph.D. candidate under the advisory of Prof. [Kai Zhe
 - PC member, KDD 2023
 - PC member, AAAI 2021, AAAI 2022, AAAI 2023
 - PC member, IJCAI 2022, IJCAI 2023
-- Sub-Reviewer, WWW 2022
 - PC member, CIKM 2022, 2023
 - PC member, ECML-PKDD 2022, 2023
+- Sub-Reviewer, WWW 2022
+- Sub-Reviewer, Recsys 2023
 - PC member, BDMS@DASFAA 2023
 
 #### Journal Invited Reviewer
