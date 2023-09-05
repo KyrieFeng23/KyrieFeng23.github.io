@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year Ph.D. candidate under the advisory of Prof. [Kai Zheng](https://zheng-kai.com/) and Prof. [Defu Lian](http://staff.ustc.edu.cn/~liandefu/) in School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/). I got my B.S. degree from the University of Electronic Science and Technology of China in 2018. My research interests include data mining, especially on efficient recommender systems.
+I am currently a fourth-year Ph.D. candidate under the advisory of Prof. [Kai Zheng](https://zheng-kai.com/) and Prof. [Defu Lian](http://staff.ustc.edu.cn/~liandefu/) in School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/). I got my B.S. degree from the University of Electronic Science and Technology of China in 2018. My research interests include data mining, especially on efficient recommender systems.
 
 
 
@@ -29,6 +29,8 @@ I am currently a third-year Ph.D. candidate under the advisory of Prof. [Kai Zhe
 
 # 📝 Publications 
 1. **Jin Chen**<sup>+</sup>, Zheng Liu<sup>+</sup> (Co-author), Xu Huang, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen. When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities. Arxiv
+2. Chen Yang, **Jin Chen** *, Qian Yu, Xiangdong Wu, Kui Ma, Zihao Zhao, Zhiwei Fang, Wenlong Chen, Chaosheng Fan, Jie He, Changping Peng, Zhangang Lin, Jingping Shao. An Incremental Update Framework for Online Recommenders with Data-Driven Prior. The 31st ACM International Conference on Information & Knowledge Management. (**CIKM 2023**, Applied Research Track)
+2. Yongfu Fan, **Jin Chen**, Yongquan Jiang, Defu Lian, Fangda Guo, Kai Zheng*. Batch-Mix Negative Sampling for Learning  Recommendation Retrievers. The 31st ACM International Conference on Information & Knowledge Management. (**CIKM 2023**)
 1. Defu Lian, Xu Huang, Xiaolong Chen, **Jin Chen**, Yankai Wang, Haoran Jin, Rui Fan, Xingmei Wang, Zheng Liu, Le Wu and Enhong Chen. RecStudio: Towards a Highly-Modularized Recommender System. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2023**, resource track). [Recstudio](https://github.com/ustcml/RecStudio) 
 1. Xu Huang, Defu Lian, **Jin Chen**, Zheng Liu, Xing Xie, Enhong Chen. Cooperative Retriever and Ranker in Deep Recommenders. The Web Conference 2023. (**WWW 2023**) 
 1. Rui Fan, Yuanhao Pu, **Jin Chen**, Zhihao Zhu, Defu Lian, Enhong Chen. AutoS2AE: Automate to Regularize Sparse Shallow Autoencoders for Recommendation. The Web Conference 2023. (**WWW 2023**)
@@ -71,8 +73,8 @@ I am currently a third-year Ph.D. candidate under the advisory of Prof. [Kai Zhe
 
 #### Program Committee Members
 - PC member, KDD 2023
-- PC member, AAAI 2021, AAAI 2022, AAAI 2023
-- PC member, IJCAI 2022, IJCAI 2023
+- PC member, AAAI 2021, 2022, 2023, 2024
+- PC member, IJCAI 2022, 2023
 - PC member, CIKM 2022, 2023
 - PC member, ECML-PKDD 2022, 2023
 - Sub-Reviewer, WWW 2022
