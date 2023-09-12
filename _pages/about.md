@@ -42,7 +42,7 @@ I am currently a fourth-year Ph.D. candidate under the advisory of Prof. [Kai Zh
 7. **Jin Chen**, Defu Lian * , Binbin Jin, Kai Zheng * and Enhong Chen. Learning Recommenders for Implicit Feedback with Importance Resampling. The Web Conference 2022. (**WWW 2022**)
 8. **Jin Chen**, Defu Lian*, Binbin Jin, Xu Huang, Kai Zheng and Enhong Chen. Fast Variational AutoEncoder with Inverted Multi-Index for Collaborative Filtering. The Web Conference 2022. (**WWW 2022**)
 9. Gangwei Jiang, Hao Wang, **Jin Chen**, Haoyu Wang, Defu Lian* and Enhong Chen. xLightFM: Extremely Memory-Efficient Factorization Machine. The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2021**)
-10. **Jin Chen**, Ju Xu, Gangwei Jiang, Tiezheng Ge, Zhiqiang Zhang, Defu Lian* and Kai Zheng. Automated Creative Optimization for E-Commerce Advertising. The 30th the Web Conference 2021. (**WWW 2021**)
+10. **Jin Chen**, Ju Xu, Gangwei Jiang, Tiezheng Ge, Zhiqiang Zhang, Defu Lian* and Kai Zheng. Automated Creative Optimization for E-Commerce Advertising. The 30th Web Conference. (**WWW 2021**)
 11. Defu Lian, **Jin Chen**, Kai Zheng * , Enhong Chen *  and Xiaofang Zhou. Ranking-based Implicit Regularization for One-Class Collaborative Filtering. IEEE Transactions on Knowledge and Data Engineering, 2021. (**TKDE**)
 12. **Jin Chen**, Tiezheng Ge, Gangwei Jiang, Zhiqiang Zhang, Defu Lian* and Kai Zheng. Efficient Optimal Selection for Composited Advertising Creatives with Tree Structure. The 35th AAAI Conference on Artificial Intelligence. 2021. (**AAAI 2021**)
 13. **Jin Chen**, Defu Lian* and Kai Zheng. Collaborative filtering with ranking-based priors on unknown ratings. IEEE Intelligent Systems, 2020, 35(5): 38-49.
