@@ -28,7 +28,9 @@ I am currently a fourth-year Ph.D. candidate under the advisory of Prof. [Kai Zh
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-1. Zepu Lu, **Jin Chen**, Defu Lian, Zaixi Zhang, Yong Ge, Enhong Chen. Knowledge Distillation for High Dimensional Search Index. The 37th Conference on Neural Information Processing Systems. (**NeurIPS 2023**)
+1. Liwei Deng, Yan Zhao, **Jin Chen**, Shuncheng Liu, Yuyang Xia, Kai Zheng. Learning to Hash for Trajectory Similarity Computation and Search. The 40th IEEE International Conference on Data Engineering. (Accepted, **ICDE 2024**)
+2. Liwei Deng, Yan Zhao, Yue Cui, Yuyang Xia, **Jin Chen**, Kai Zheng. Task Recommendation in Spatial Crowdsourcing: A Trade-off between Diversity and Coverage.  The 40th IEEE International Conference on Data Engineering. (Accepted, **ICDE 2024**) 
+3. Zepu Lu, **Jin Chen**, Defu Lian, Zaixi Zhang, Yong Ge, Enhong Chen. Knowledge Distillation for High Dimensional Search Index. The 37th Conference on Neural Information Processing Systems. (**NeurIPS 2023**)
 1. **Jin Chen**<sup>+</sup>, Zheng Liu<sup>+</sup> (Co-author), Xu Huang, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen. When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities. Arxiv
 2. Chen Yang, **Jin Chen** *, Qian Yu, Xiangdong Wu, Kui Ma, Zihao Zhao, Zhiwei Fang, Wenlong Chen, Chaosheng Fan, Jie He, Changping Peng, Zhangang Lin, Jingping Shao. An Incremental Update Framework for Online Recommenders with Data-Driven Prior. The 31st ACM International Conference on Information & Knowledge Management. (**CIKM 2023**, Applied Research Track)
 2. Yongfu Fan, **Jin Chen**, Yongquan Jiang, Defu Lian, Fangda Guo, Kai Zheng*. Batch-Mix Negative Sampling for Learning  Recommendation Retrievers. The 31st ACM International Conference on Information & Knowledge Management. (**CIKM 2023**)
