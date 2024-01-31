@@ -67,7 +67,7 @@ I got my Ph.D. degree under the advisory of Prof. [Kai Zheng](https://zheng-kai.
 
 # 🎖 Honors and Awards
 - The Outstanding Doctoral Graduate of Sichuan Province, 2024
-- The Most Outstanding Students Award of UESTC (graduate students, 10 awardees per year), 2023
+- The Most Outstanding Students Award of UESTC (10 awardees per year), 2023
 - National Scholarship, 2022
 - UESTC Academic Newcomer Award, 2022
 - First-class People's Scholarship (2019, 2021, 2022)
