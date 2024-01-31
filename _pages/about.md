@@ -66,7 +66,8 @@ I got my Ph.D. degree under the advisory of Prof. [Kai Zheng](https://zheng-kai.
   - Mentor: [Tiezheng Ge](https://scholar.google.com/citations?user=db5ZTlMAAAAJ&hl=en)
 
 # 🎖 Honors and Awards
-
+- The Outstanding Doctoral Graduate of Sichuan Province, 2024
+- The Most Outstanding Students Award of UESTC (graduate students, 10 awardees per year), 2023
 - National Scholarship, 2022
 - UESTC Academic Newcomer Award, 2022
 - First-class People's Scholarship (2019, 2021, 2022)
@@ -78,7 +79,7 @@ I got my Ph.D. degree under the advisory of Prof. [Kai Zheng](https://zheng-kai.
 #### Program Committee Members
 - PC member, KDD 2023
 - PC member, AAAI 2021, 2022, 2023, 2024
-- PC member, IJCAI 2022, 2023
+- PC member, IJCAI 2022, 2023, 2024
 - PC member, CIKM 2022, 2023
 - PC member, ECML-PKDD 2022, 2023
 - Sub-Reviewer, WWW 2022
