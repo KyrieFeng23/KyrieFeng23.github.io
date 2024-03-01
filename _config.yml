@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jin Chen 陈矜"
   avatar           : "images/pic_whitebackground.png" # "images/android-chrome-512x512.png"
-  bio              : "Ph.D. of UESTC"
-  location         : "Chengdu, China"
+  bio              : "RAP, ISOM, HKUST"
+  location         : "Room 5049C, LSK Building, HKUST "
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=h-v_wdIAAAAJ"
-  email            : "chenjin@std.uestc.edu.cn"
+  email            : "jinchen@ust.hk or chenjin.uestc@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
