@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Welcome to Jin Chen's Homepage"
-description              : "Email chenjin at chenjin.uestc@gmail.com"
+description              : "Please feel free to contact to me!"
 repository               : "HERECJ/HERECJ.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=h-v_wdIAAAAJ"
-  email            : "jinchen@ust.hk or chenjin.uestc@gmail.com"
+  email            : "jinchen@ust.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
