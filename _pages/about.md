@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am now a Research Assistant Professor at the [Dept of Information Systems, Business Statistics & Operations Management (ISOM)](https://isom.hkust.edu.hk/) under the [School of Business and Management](https://bm.hkust.edu.hk/) of the [Hong Kong University of Science and Technology](https://hkust.edu.hk/). I got my Ph.D. degree under the advisory of Prof. [Kai Zheng](https://zheng-kai.com/) and Prof. [Defu Lian](http://staff.ustc.edu.cn/~liandefu/) in the School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in Dec 2023. I got my B.S. degree from the University of Electronic Science and Technology of China in 2018. My research interests include data mining, especially on efficient recommender systems.
+I am now a Research Assistant Professor at the [Dept of Information Systems, Business Statistics & Operations Management (ISOM)](https://isom.hkust.edu.hk/) under the [School of Business and Management](https://bm.hkust.edu.hk/) of the [Hong Kong University of Science and Technology](https://hkust.edu.hk/). I got my Ph.D. degree under the advisory of Prof. [Kai Zheng](https://zheng-kai.com/) and Prof. [Defu Lian](https://faculty.ustc.edu.cn/liandefu) in the School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in Dec 2023. I got my B.S. degree from the University of Electronic Science and Technology of China in 2018. My research interests include data mining, especially on efficient recommender systems.
 
 
 
@@ -57,7 +57,7 @@ I am now a Research Assistant Professor at the [Dept of Information Systems, Bus
 # 📖 Educations
 
 - *2014.09 - 2018.06*, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Bachelor. 
-- *2020.09 - 2023.12*, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Ph.D.
+- *2018.09 - 2023.12*, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Ph.D.
 
 # 💻 Internships
 
