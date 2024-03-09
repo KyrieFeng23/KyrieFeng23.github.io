@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Welcome to Jin Chen's Homepage"
-description              : "Please feel free to contact to me!"
+description              : "君子以自强不息"
 repository               : "HERECJ/HERECJ.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Jin Chen 陈矜"
   avatar           : "images/pic_whitebackground.png" # "images/android-chrome-512x512.png"
   bio              : "RAP, ISOM, HKUST"
-  location         : "Room 5049C, LSK Building, HKUST "
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=h-v_wdIAAAAJ"
