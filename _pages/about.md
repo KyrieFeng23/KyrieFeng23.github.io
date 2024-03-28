@@ -56,8 +56,8 @@ I am now a Research Assistant Professor at the [Dept of Information Systems, Bus
 
 # 📖 Educations
 
-- *2014.09 - 2018.06*, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Bachelor. 
-- *2018.09 - 2023.12*, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Ph.D.
+- *2014.09 - 2018.06*, Information Security, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Bachelor. 
+- *2018.09 - 2023.12*, Computer Science and Technology, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Ph.D.
 
 # 💻 Internships
 
