@@ -37,7 +37,7 @@ For anything about my research, resources, and other related matters, please fee
 2. Chenglong Zhang, Yang Fang, Xinyan Liang, Han Zhang, Peng Zhou, **Xingyu Wu**, Jie Yang, Bingbing Jiang, Weiguo Sheng. Efficient Multi-view Unsupervised Feature Selection with Adaptive Structure Learning and Inference. The 33rd International Joint Conference on Artificial Intelligence (IJCAI'24), August 3-9, 2024, Jeju, South Korea.
 3. **Xingyu Wu**, Yan Zhong, Zhaolong Ling, Jie Yang, Li Li, Weiguo Sheng, Bingbing Jiang. Nonlinear Learning Methods for Local Causal Structures. Information Sciences, vol. 654 (1), pp. 119789, 2024.
 4. Chenglong Zhang, Bingbing Jiang, Zidong Wang, Jie Yang, Yangfeng Lu, **Xingyu Wu**, Weiguo Sheng. Efficient multi-view semi-supervised feature selection. Information Sciences, vol 649 (11), pp. 119675, 2023.
-5. Bingbing Jiang, Chenglong Zhang, Yan Zhong, Yi Liu, Yingwei Zhang, **Xingyu Wu ***, Weiguo Sheng *. Adaptive Collaborative Fusion for Multi-view Semi-supervised Classification. Information Fusion, vol 96 (8), pp. 37 - 50, 2023.
+5. Bingbing Jiang, Chenglong Zhang, Yan Zhong, Yi Liu, Yingwei Zhang, **Xingyu Wu** *, Weiguo Sheng *. Adaptive Collaborative Fusion for Multi-view Semi-supervised Classification. Information Fusion, vol 96 (8), pp. 37 - 50, 2023.
 6. Shengfei Lyu, Xiren Zhou, **Xingyu Wu**, Qiuju Chen, Huanhuan Chen. Self-Attention Over Tree for Relation Extraction With Data-Efficiency and Computational Efficiency. IEEE Transactions on Emerging Topics in Computational Intelligence, vol. 8 (2), pp. 1253 - 1263, 2024.
 7. **Xingyu Wu**, Bingbing Jiang, Xiangyu Wang, Taiyu Ban, Huanhuan Chen. Feature Selection in the Data Stream Based on Incremental Markov Boundary Learning. IEEE Transactions on Neural Networks and Learning Systems, vol. 34 (10), pp. 6740 - 6754, 2023.
 8. Xiangyu Wang, Lyuzhou Chen, Taiyu Ban, Derui Lyu, Yifeng Guan, **Xingyu Wu**, Xiren Zhou, Huanhuan Chen. Accurate Label Refinement from Multi-Annotator of Remote Sensing Data. IEEE Transactions on Geoscience and Remote Sensing, accepted/in press, DOI: 10.1109/TGRS.2023.3241402, 2023.
@@ -57,7 +57,7 @@ For anything about my research, resources, and other related matters, please fee
 22. Bingbing Jiang, Wenda He, **Xingyu Wu**, Junhao Xiang, Libin Hong, Weiguo Sheng. Semi-Supervised Feature Selection with Adaptive Graph Learning. ACTA Electronica Sinica, vol. 50, no. 7, pp. 1643–1652, 2022.
 23. Shengfei Lyu, **Xingyu Wu**, Jinlong Li, Qiuju Chen, Huanhuan Chen. Do Models Learn the Directionality of Relations? A New Evaluation: Relation Direction Recognition. IEEE Transactions on Emerging Topics in Computational Intelligence, vol. 6 (4), pp. 883 - 892, 2022.
 24. Kui Yu, Mingzhu Cai, **Xingyu Wu**, Lin Liu, Jiuyong Li. Multi-Label Feature Selection: a Local Causal Structure Learning Approach. IEEE Transactions on Neural Networks and Learning Systems, vol. 34 (6), pp. 3044 - 3057, 2023.
-25. Bingbing Jiang, Junhao Xiang, **Xingyu Wu ***, Wenda He, Libin Hong, Weiguo Sheng *. Robust Adaptive-weighting Multi-view Classification. The 30th ACM International Conference on Information and Knowledge Management (CIKM'21), November 1–5, 2021, Gold Coast, Australia.
+25. Bingbing Jiang, Junhao Xiang, **Xingyu Wu** *, Wenda He, Libin Hong, Weiguo Sheng *. Robust Adaptive-weighting Multi-view Classification. The 30th ACM International Conference on Information and Knowledge Management (CIKM'21), November 1–5, 2021, Gold Coast, Australia.
 26. Yan Zhong, **Xingyu Wu**, Bingbing Jiang, Huanhuan Chen. Multi-label Local-to-Global Feature Selection. International Joint Conference on Neural Networks (IJCNN'21), July 18–22, 2021, Virtual Event, Shenzhen, China.
 27. **Xingyu Wu**, Bingbing Jiang, Kui Yu, Huanhuan Chen. Separation and Recovery Markov Boundary Discovery and Its Application in EEG-based Emotion Recognition. Information Sciences, vol. 571 (9), pp. 262 - 278, 2021.
 28. Shengfei Lyu, Jin Cheng, **Xingyu Wu**, Lizhen Cui, Huanhuan Chen, Chunyan Miao. Auxiliary Learning for Relation Extraction. IEEE Transactions on Emerging Topics in Computational Intelligence, vol. 6 (1), pp. 182 - 191, 2022.
@@ -71,41 +71,51 @@ For anything about my research, resources, and other related matters, please fee
 # 📖 Educations
 
 - *2014.09 - 2018.06*, University of Electronic Science and Technology of China, Bachelor
-  - Information Security, School of Computer Science and Engineering
-- *2018.09 - 2023.12*, University of Electronic Science and Technology of China, Ph.D.
   - Computer Science and Technology, School of Computer Science and Engineering
-
-# 💻 Internships
-
-- *2019.10 - 2020.10*, Alimama, Alibab Group, Beijing, China.
-  - Online Advertising Creative Optimization
-  - Mentor: [Tiezheng Ge](https://scholar.google.com/citations?user=db5ZTlMAAAAJ&hl=en)
+- *2018.09 - 2023.06*, University of Science and Technology of China, Ph.D.
+  - Computer Science and Technology, School of Computer Science and Technology
 
 # 🎖 Honors and Awards
-- The Outstanding Doctoral Graduate of Sichuan Province, 2024
-- The Most Outstanding Students Award of UESTC (10 awardees per year), 2023
-- National Scholarship, 2022
-- UESTC Academic Newcomer Award, 2022
-- First-class People's Scholarship (2019, 2021, 2022)
-- Alibaba’s Excellent Research Intern, 2020
-- AAAI 2019 Travel Award
+- National Scholarship, Ministry of Education of the People’s Republic of China, Dec 2016, Dec 2019
+- Outstanding Graduate Award of Sichuan Province, Education Department of Sichuan Province, Jan 2018
+- Outstanding Graduate Award of UESTC, UESTC, Jun 2018
+- Huawei Scholarship, Huawei, Dec 2020, Dec 2022
+- Intel Scholarship, Intel, Dec 2022
+- Top Performance Award, ACM Multimedia 2022 Social Media Prediction (SMP) Challenge, Dec 2022
+- Outstanding Graduate Award of USTC, USTC, Jun 2023
+- AAAI 2020 Travel Award
 
 # ⏳ Professional Services
 
 #### Program Committee Members
-- PC member, KDD 2023
-- PC member, AAAI 2021, 2022, 2023, 2024
-- PC member, IJCAI 2022, 2023, 2024
-- PC member, CIKM 2022, 2023
-- PC member, ECML-PKDD 2022, 2023
-- Sub-Reviewer, WWW 2022
-- Sub-Reviewer, Recsys 2023
-- PC member, BDMS@DASFAA 2023
+- The 35th AAAI Conference on Artificial Intelligence (AAAI'21)
+- The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP'21)
+- The 36th AAAI Conference on Artificial Intelligence (AAAI'22)
+- The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP'22)
+- The 2023 Future of Information and Communication Conference (FICC'23)
+- The 37th AAAI Conference on Artificial Intelligence (AAAI'23)
+- The 2023 International Joint Conference on Neural Networks (IJCNN'23)
+- The 38th AAAI Conference on Artificial Intelligence (AAAI'24)
+- The 2024 International Joint Conference on Neural Networks (IJCNN'24)
+- The 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)
+- The ACM MULTIMEDIA 2024 (MM'24)
 
 #### Journal Invited Reviewer
-- ACM Transactions on Information Systems (TOIS)
-- Journal of Data & Knowledge Engineering
-- Journal of Data Science and Analytics
+- IEEE Transactions on Knowledge and Data Engineering (TKDE, IEEE)
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IEEE)
+- IEEE Transactions on Cybernetics (TCYB, IEEE)
+- IEEE Transactions on Cognitive and Developmental Systems (TCDS, IEEE)
+- IEEE/CAA Journal of Automatica Sinica (JAS, IEEE)
+- INFORMS Journal on Computing (JOC, INFORMS, UTD-24 Journal)
+- Pattern Recognition (PR, Elsevier)
+- Neurocomputing (NEUCOM, Elsevier)
+- Electronic Commerce Research and Applications (ECRA, Elsevier)
+- Soft Computing (SOCO, Springer)
+- International Journal of Fuzzy Systems (IJFS, Springer)
+- Journal of Ambient Intelligence and Humanized Computing (AIHC, Springer)
+- International Journal of Intelligent Systems (IJIS, Wiley)
+- Intelligent Automation and Soft Computing (IASC, TSI Press)
+- CMC-Computers, Materials & Continua (CMC, Tech Science Press)
 
 <!-- # 📆 Research Experience
 
