@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Welcome to Xingyu's Homepage"
-description              : #"君子以自强不息"
+description              : "Machine Learning"
 repository               : "wuxingyu-ai/wuxingyu-ai.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xingyu Wu 吴兴宇"
   avatar           : "images/Xingyu_Wu_photo.png" # "images/android-chrome-512x512.png"
-  bio              : "Postdoctoral Fellow, COMP, PolyU"
+  bio              : "Postdoctoral Fellow, PolyU"
   location         : "Hong Kong SAR"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/wuxingyu-ai" # e.g., "github username"
+  github           : "wuxingyu-ai" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
