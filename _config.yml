@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Welcome to Jin Chen's Homepage"
-description              : "君子以自强不息"
-repository               : "HERECJ/HERECJ.github.io"
+title                    : "Welcome to Xingyu's Homepage"
+description              : #"君子以自强不息"
+repository               : "wuxingyu-ai/wuxingyu-ai.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jin Chen 陈矜"
-  avatar           : "images/pic_whitebackground.png" # "images/android-chrome-512x512.png"
-  bio              : "RAP, ISOM, HKUST"
-  location         : "Hong Kong"
+  name             : "Xingyu Wu 吴兴宇"
+  avatar           : "images/Xingyu_Wu_photo.png" # "images/android-chrome-512x512.png"
+  bio              : "Postdoctoral Fellow, COMP, PolyU"
+  location         : "Hong Kong SAR"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=h-v_wdIAAAAJ"
-  email            : "jinchen@ust.hk"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=E10XSzEAAAAJ"
+  email            : "xingy.wu@polyu.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HERECJ" # e.g., "github username"
+  github           : "https://github.com/wuxingyu-ai" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/03/5287-8.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/143/0523.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
