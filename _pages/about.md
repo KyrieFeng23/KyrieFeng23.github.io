@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Dr. Xingyu Wu is a postdoctoral fellow in the Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), Hong Kong SAR, China. Before joining PolyU, he received the Bachelor degree from the School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2018, and PhD degree from School of Computer Science and Technology, [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Hefei, China, in 2023. Dr. Wu is currently affiliated with the [MIND Lab@PolyU](https://www.mindlab-ai.com/), which is dedicated to advancing the frontiers of nature-inspired artificial intelligence research. His research interests encompass a wide range of areas, focusing on causality-based machine learning and automatic machine learning.
+Dr. Xingyu Wu is a postdoctoral fellow in the Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), Hong Kong SAR, China. Before joining PolyU, he received the Bachelor degree from the School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2018, and PhD degree from School of Computer Science and Technology, [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Hefei, China, in 2023. Dr. Wu is currently affiliated with the [MIND Lab@PolyU](https://www.mindlab-ai.com/), which is dedicated to advancing the frontiers of nature-inspired artificial intelligence research. He was fortunate to be advised by Prof. Kay Chen Tan and Prof. Jibin Wu in MIND Lab. His research interests encompass a wide range of areas, focusing on causality-based machine learning, automatic machine learning, and large foundation model.
 
-Dr. Wu has actively published in prestigious conferences and journals in machine learning and data mining, including AAAI, IJCAI, ICML, NeurIPS, CIKM, TPAMI, TNNLS, TCYB, TETCI, Information Sciences, and Information Fusion. He is currently serving as the reviewer for 15 prestigious journals, and program committee (PC) member for more than 10 conferences. For anything about the research, resources, and other related matters, please feel free to contact him via Wechat (wuxingyu-uestc) or Email ([xingy.wu@polyu.edu.hk](xingy.wu@polyu.edu.hk)).
+Dr. Wu has actively published in prestigious conferences and journals in machine learning and data mining, including AAAI, IJCAI, ICML, NeurIPS, CIKM, TPAMI, TNNLS, TCYB, TETCI, Information Sciences, and Information Fusion. He is currently serving as the reviewer for 15 prestigious journals, and program committee (PC) member for more than 10 top conferences. For anything about the research, resources, and other related matters, please feel free to contact him via **Wechat (wuxingyu-uestc)** or Email ([xingy.wu@polyu.edu.hk](xingy.wu@polyu.edu.hk)).
 
 
 
@@ -78,17 +78,18 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 
 - Causality-based Machine Learning
 - Automatic Machine Learning
-- Large Language Model and Applications
+- Large Foundation Model
 
 # 🎖 Honors and Awards
 - National Scholarship, Ministry of Education of the People’s Republic of China, Dec 2016, Dec 2019
 - Outstanding Graduate Award of Sichuan Province, Education Department of Sichuan Province, Jan 2018
 - Outstanding Graduate Award of UESTC, UESTC, Jun 2018
+- AAAI 2020 Travel Award, AAAI, Jan 2020
 - Huawei Scholarship, Huawei, Dec 2020, Dec 2022
 - Intel Scholarship, Intel, Dec 2022
 - Top Performance Award, ACM Multimedia 2022 Social Media Prediction (SMP) Challenge, Dec 2022
+- CAST 2022 Annual Science and Technology Journal Bilingual Dissemination Project, China Association for Science and Technology, Dec, 2022
 - Outstanding Graduate Award of USTC, USTC, Jun 2023
-- AAAI 2020 Travel Award
 
 # ⏳ Professional Services
 
@@ -104,6 +105,8 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - The 2024 International Joint Conference on Neural Networks (IJCNN'24)
 - The 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)
 - The 33rd ACM International Conference on Multimedia (ACM MM'24)
+- The 11th IEEE International Conference on Cybernetics and Intelligent Systems Robotics, Automation and Mechatronics (CIS-RAM'24), Associate Editor
+- The 38th Annual Conference on Neural Information Processing Systems (NeurIPS'24)
 
 #### Journal Invited Reviewer
 - IEEE Transactions on Knowledge and Data Engineering (TKDE, IEEE)
