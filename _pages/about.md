@@ -118,6 +118,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - Pattern Recognition (PR, Elsevier)
 - Neurocomputing (NEUCOM, Elsevier)
 - Electronic Commerce Research and Applications (ECRA, Elsevier)
+- World Wide Web (WWW, Springer)
 - Soft Computing (SOCO, Springer)
 - International Journal of Fuzzy Systems (IJFS, Springer)
 - Journal of Ambient Intelligence and Humanized Computing (AIHC, Springer)
