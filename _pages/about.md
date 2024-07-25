@@ -31,7 +31,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-1. **Xingyu Wu**, Sheng-hao Wu, Jibin Wu, Liang Feng, Kay Chen Tan. Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap. IEEE IEEE Transactions on Evolutionary Computation, vol X (x), pp. xxxx-xxxx, 2024. ([Repository](https://github.com/wuxingyu-ai/LLM4EC))
+1. **Xingyu Wu**, Sheng-hao Wu, Jibin Wu, Liang Feng, Kay Chen Tan. Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap. IEEE Transactions on Evolutionary Computation (accept), vol X (x), pp. xxxx-xxxx, 2024. ([Repository](https://github.com/wuxingyu-ai/LLM4EC))
 2. Chenglong Zhang, Xinyan Liang, Peng Zhou, Zhaolong Ling, Yingwei Zhang, **Xingyu Wu**, Weiguo Sheng, Bingbing Jiang. Scalable Multi-view Unsupervised Feature Selection with Structure Learning and Fusion. The 32nd ACM International Conference on Multimedia (MM'24), 28 October - 1 November, 2024, Melbourne, Australia.
 3. Li Zhang, Zean Han, Yan Zhong, Qiaojun Yu, **Xingyu Wu**, Xue Wang, RujingWang. VoCAPTER: Voting-based Pose Tracking for Category-level Articulated Object via Inter-frame Priors. The 32nd ACM International Conference on Multimedia (MM'24), 28 October - 1 November, 2024, Melbourne, Australia.
 4. Yan Zhong, **Xingyu Wu**, Li Zhang, Chenxi Yang, Tingting Jiang. Causal-IQA: Towards the Generalization of Image Quality Assessment Based on Causal Inference. The 41st International Conference on Machine Learning (ICML'24), July 21-27, 2024, Vienna, Austria.
