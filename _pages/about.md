@@ -111,6 +111,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - The 33rd ACM International Conference on Multimedia (ACM MM'24)
 - The 11th IEEE International Conference on Cybernetics and Intelligent Systems Robotics, Automation and Mechatronics (CIS-RAM'24), Associate Editor
 - The 38th Annual Conference on Neural Information Processing Systems (NeurIPS'24)
+- The 13th International Conference on Learning Representations (ICLR'25)
 
 #### Journal Invited Reviewer
 - IEEE Transactions on Knowledge and Data Engineering (TKDE, IEEE)
