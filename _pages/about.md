@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Dr. Xingyu Wu is a postdoctoral fellow in the Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), Hong Kong SAR, China. Before joining PolyU, he received the Bachelor degree from the School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2018, and PhD degree from School of Computer Science and Technology, [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Hefei, China, in 2023. Dr. Wu is currently affiliated with the [MIND Lab@PolyU](https://www.mindlab-ai.com/), which is dedicated to advancing the frontiers of nature-inspired artificial intelligence research. He is fortunate to be advised by Prof. Kay Chen Tan and Prof. Jibin Wu in MIND Lab. His research interests encompass a wide range of areas, focusing on causality-based machine learning, automatic machine learning, and large foundation model.
+Dr. Xingyu Wu is a postdoctoral fellow in the Department of Data Science and Artificial Intelligence, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), Hong Kong SAR, China. Before joining PolyU, he received the Bachelor degree from the School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2018, and PhD degree from School of Computer Science and Technology, [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Hefei, China, in 2023. Dr. Wu is currently affiliated with the [MIND Lab@PolyU](https://www.mindlab-ai.com/), which is dedicated to advancing the frontiers of nature-inspired artificial intelligence research. He is fortunate to be advised by Prof. Kay Chen Tan and Prof. Jibin Wu in MIND Lab. His research interests encompass a wide range of areas, focusing on causality-based machine learning, automatic machine learning, and large foundation model.
 
-Dr. Wu has actively published in prestigious conferences and journals in machine learning and data mining, including AAAI, IJCAI, ICML, NeurIPS, CIKM, TPAMI, TNNLS, TEVC, TCYB, TETCI, TKDD, Information Sciences, and Information Fusion. He is currently serving as the reviewer for 18 prestigious journals, and program committee (PC) member for more than 10 top conferences. For anything about the research, resources, and other related matters, please feel free to contact him via **Wechat (wuxingyu-uestc)** or Email ([xingy.wu@polyu.edu.hk](xingy.wu@polyu.edu.hk)).
+Dr. Wu has actively published in prestigious conferences and journals in machine learning and data mining, including AAAI, IJCAI, ICML, NeurIPS, MM, CIKM, TPAMI, TNNLS, TEVC, TCYB, TETCI, TKDD, Information Sciences, and Information Fusion. He is currently serving as the reviewer for 19 prestigious journals, and program committee (PC) member for more than 10 top conferences. For anything about the research, resources, and other related matters, please feel free to contact him via **Wechat (wuxingyu-uestc)** or Email ([xingy.wu@polyu.edu.hk](xingy.wu@polyu.edu.hk)).
 
 
 
@@ -31,8 +31,9 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-1. **Xingyu Wu**, Sheng-hao Wu, Jibin Wu, Liang Feng, Kay Chen Tan. Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap. IEEE Transactions on Evolutionary Computation (accept), vol X (x), pp. xxxx-xxxx, 2024. ([Repository](https://github.com/wuxingyu-ai/LLM4EC))
-2. Zhaolong Ling, Bo Li, Yiwen Zhang, Peng Zhou, **Xingyu Wu**, Kui Yu, Xindong Wu. Causal Discovery Using Weight-Based Conditional Independence Test. ACM Transactions on Knowledge Discovery from Data (accept), vol X (x), pp. xxxx-xxxx, 2024.
+1. **Xingyu Wu**, Sheng-hao Wu, Jibin Wu, Liang Feng, Kay Chen Tan. Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap. IEEE Transactions on Evolutionary Computation (Accepted on 21 November
+ 2024), vol X (x), pp. xxxx-xxxx, 2024. ([Repository](https://github.com/wuxingyu-ai/LLM4EC))
+2. Zhaolong Ling, Bo Li, Yiwen Zhang, Peng Zhou, **Xingyu Wu**, Kui Yu, Xindong Wu. Causal Discovery Using Weight-Based Conditional Independence Test. ACM Transactions on Knowledge Discovery from Data (Accepted on 28 July 2024), vol X (x), pp. xxxx-xxxx, 2024.
 3. Chenglong Zhang, Xinyan Liang, Peng Zhou, Zhaolong Ling, Yingwei Zhang, **Xingyu Wu**, Weiguo Sheng, Bingbing Jiang. Scalable Multi-view Unsupervised Feature Selection with Structure Learning and Fusion. The 32nd ACM International Conference on Multimedia (MM'24), 28 October - 1 November, 2024, Melbourne, Australia.
 4. Li Zhang, Zean Han, Yan Zhong, Qiaojun Yu, **Xingyu Wu**, Xue Wang, RujingWang. VoCAPTER: Voting-based Pose Tracking for Category-level Articulated Object via Inter-frame Priors. The 32nd ACM International Conference on Multimedia (MM'24), 28 October - 1 November, 2024, Melbourne, Australia.
 5. Yan Zhong, **Xingyu Wu**, Li Zhang, Chenxi Yang, Tingting Jiang. Causal-IQA: Towards the Generalization of Image Quality Assessment Based on Causal Inference. The 41st International Conference on Machine Learning (ICML'24), July 21-27, 2024, Vienna, Austria.
@@ -43,7 +44,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 10. Bingbing Jiang, Chenglong Zhang, Yan Zhong, Yi Liu, Yingwei Zhang, **Xingyu Wu** *, Weiguo Sheng *. Adaptive Collaborative Fusion for Multi-view Semi-supervised Classification. Information Fusion, vol 96 (8), pp. 37 - 50, 2023.
 11. Shengfei Lyu, Xiren Zhou, **Xingyu Wu**, Qiuju Chen, Huanhuan Chen. Self-Attention Over Tree for Relation Extraction With Data-Efficiency and Computational Efficiency. IEEE Transactions on Emerging Topics in Computational Intelligence, vol. 8 (2), pp. 1253 - 1263, 2024.
 12. **Xingyu Wu**, Bingbing Jiang, Xiangyu Wang, Taiyu Ban, Huanhuan Chen. Feature Selection in the Data Stream Based on Incremental Markov Boundary Learning. IEEE Transactions on Neural Networks and Learning Systems, vol. 34 (10), pp. 6740 - 6754, 2023.
-13. Xiangyu Wang, Lyuzhou Chen, Taiyu Ban, Derui Lyu, Yifeng Guan, **Xingyu Wu**, Xiren Zhou, Huanhuan Chen. Accurate Label Refinement from Multi-Annotator of Remote Sensing Data. IEEE Transactions on Geoscience and Remote Sensing, accepted/in press, DOI: 10.1109/TGRS.2023.3241402, 2023.
+13. Xiangyu Wang, Lyuzhou Chen, Taiyu Ban, Derui Lyu, Yifeng Guan, **Xingyu Wu**, Xiren Zhou, Huanhuan Chen. Accurate Label Refinement from Multi-Annotator of Remote Sensing Data. IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 4700413, 2023.
 14. **Xingyu Wu**, Bingbing Jiang, Tianhao Wu, Huanhuan Chen. Practical Markov Boundary Learning without Strong Assumptions. The 37th AAAI Conference on Artificial Intelligence (AAAI'23), February 7-14, 2023, Washington, DC, USA.
 15. Xin Wang, Shengfei Lyu, Xiangyu Wang, **Xingyu Wu**, Huanhuan Chen. Temporal Knowledge Graph Embedding via Sparse Transfer Matrix. Information Sciences, vol. 623, no. 4, pp. 56–69, 2023.
 16. Xin Wang, Shengfei Lyu, **Xingyu Wu**, Tianhao Wu, Huanhuan Chen. Generalization Bounds for Estimating Causal Effects of Continuous Treatments. The 36th Conference on Neural Information Processing Systems (NeurIPS'22), November 29 - December 1, 2022, New Orleans, Louisiana, USA.
@@ -112,6 +113,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - The 11th IEEE International Conference on Cybernetics and Intelligent Systems Robotics, Automation and Mechatronics (CIS-RAM'24), Associate Editor
 - The 38th Annual Conference on Neural Information Processing Systems (NeurIPS'24)
 - The 13th International Conference on Learning Representations (ICLR'25)
+- The 28th International Conference on Artificial Intelligence and Statistics (AISTATS'25)
 
 #### Journal Invited Reviewer
 - IEEE Transactions on Knowledge and Data Engineering (TKDE, IEEE)
@@ -124,6 +126,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - Pattern Recognition (PR, Elsevier)
 - Neurocomputing (NEUCOM, Elsevier)
 - Electronic Commerce Research and Applications (ECRA, Elsevier)
+- ARRAY (ARRAY, Elsevier)
 - World Wide Web (WWW, Springer)
 - Soft Computing (SOCO, Springer)
 - International Journal of Fuzzy Systems (IJFS, Springer)
