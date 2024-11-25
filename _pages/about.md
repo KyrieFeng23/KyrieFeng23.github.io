@@ -20,7 +20,7 @@ redirect_from:
 
 Dr. Xingyu Wu is a postdoctoral fellow in the Department of Data Science and Artificial Intelligence, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), Hong Kong SAR, China. Before joining PolyU, he received the Bachelor degree from the School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2018, and PhD degree from School of Computer Science and Technology, [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Hefei, China, in 2023. Dr. Wu is currently affiliated with the [MIND Lab@PolyU](https://www.mindlab-ai.com/), which is dedicated to advancing the frontiers of nature-inspired artificial intelligence research. He is fortunate to be advised by Prof. Kay Chen Tan and Prof. Jibin Wu in MIND Lab. His research interests encompass a wide range of areas, focusing on causality-based machine learning, automatic machine learning, and large foundation model.
 
-Dr. Wu has actively published in prestigious conferences and journals in machine learning and data mining, including AAAI, IJCAI, ICML, NeurIPS, MM, CIKM, TPAMI, TNNLS, TEVC, TCYB, TETCI, TKDD, Information Sciences, and Information Fusion. He is currently serving as the reviewer for 19 prestigious journals, and program committee (PC) member for more than 10 top conferences. For anything about the research, resources, and other related matters, please feel free to contact him via **Wechat (wuxingyu-uestc)** or Email ([xingy.wu@polyu.edu.hk](xingy.wu@polyu.edu.hk)).
+Dr. Wu has actively published in prestigious conferences and journals in machine learning and data mining, including AAAI, IJCAI, ICML, NeurIPS, CIKM, MM, TPAMI, TNNLS, TEVC, TCYB, TETCI, TKDD, Information Sciences, and Information Fusion. He is currently serving as the reviewer for 20+ prestigious journals, and program committee member for 10+ top conferences. For anything about the research, resources, and other related matters, please feel free to contact him via **Wechat (wuxingyu-uestc)** or Email ([xingy.wu@polyu.edu.hk](xingy.wu@polyu.edu.hk)).
 
 
 
@@ -31,9 +31,8 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-1. **Xingyu Wu**, Sheng-hao Wu, Jibin Wu, Liang Feng, Kay Chen Tan. Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap. IEEE Transactions on Evolutionary Computation (Accepted on 21 November
- 2024), vol X (x), pp. xxxx-xxxx, 2024. ([Repository](https://github.com/wuxingyu-ai/LLM4EC))
-2. Zhaolong Ling, Bo Li, Yiwen Zhang, Peng Zhou, **Xingyu Wu**, Kui Yu, Xindong Wu. Causal Discovery Using Weight-Based Conditional Independence Test. ACM Transactions on Knowledge Discovery from Data (Accepted on 28 July 2024), vol X (x), pp. xxxx-xxxx, 2024.
+1. **Xingyu Wu**, Sheng-hao Wu, Jibin Wu, Liang Feng, Kay Chen Tan. Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap. IEEE Transactions on Evolutionary Computation, vol X (x), pp. xxxx-xxxx, 2024. ([Repository](https://github.com/wuxingyu-ai/LLM4EC))
+2. Zhaolong Ling, Bo Li, Yiwen Zhang, Peng Zhou, **Xingyu Wu**, Kui Yu, Xindong Wu. Causal Discovery Using Weight-Based Conditional Independence Test. ACM Transactions on Knowledge Discovery from Data, vol X (x), pp. xxxx-xxxx, 2024.
 3. Chenglong Zhang, Xinyan Liang, Peng Zhou, Zhaolong Ling, Yingwei Zhang, **Xingyu Wu**, Weiguo Sheng, Bingbing Jiang. Scalable Multi-view Unsupervised Feature Selection with Structure Learning and Fusion. The 32nd ACM International Conference on Multimedia (MM'24), 28 October - 1 November, 2024, Melbourne, Australia.
 4. Li Zhang, Zean Han, Yan Zhong, Qiaojun Yu, **Xingyu Wu**, Xue Wang, RujingWang. VoCAPTER: Voting-based Pose Tracking for Category-level Articulated Object via Inter-frame Priors. The 32nd ACM International Conference on Multimedia (MM'24), 28 October - 1 November, 2024, Melbourne, Australia.
 5. Yan Zhong, **Xingyu Wu**, Li Zhang, Chenxi Yang, Tingting Jiang. Causal-IQA: Towards the Generalization of Image Quality Assessment Based on Causal Inference. The 41st International Conference on Machine Learning (ICML'24), July 21-27, 2024, Vienna, Austria.
@@ -118,6 +117,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 #### Journal Invited Reviewer
 - IEEE Transactions on Knowledge and Data Engineering (TKDE, IEEE)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IEEE)
+- IEEE Transactions on Evolutionary Computation (TEVC, IEEE)
 - IEEE Transactions on Cybernetics (TCYB, IEEE)
 - IEEE Transactions on Cognitive and Developmental Systems (TCDS, IEEE)
 - IEEE/CAA Journal of Automatica Sinica (JAS, IEEE)
