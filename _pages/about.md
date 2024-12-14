@@ -32,7 +32,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 
 # 📝 Publications 
 1. **Xingyu Wu**, Sheng-hao Wu, Jibin Wu, Liang Feng, Kay Chen Tan. Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap. IEEE Transactions on Evolutionary Computation, vol X (x), pp. xxxx-xxxx, 2024. ([Repository](https://github.com/wuxingyu-ai/LLM4EC))
-2. Xun Zhou, Liang Feng, Zhichao Lu, **Xingyu Wu**, Kay Chen Tan. Design Principle Transfer in Neural Architecture Search via Large Language Models. The 39th AAAI Conference on Artificial Intelligence (AAAI'25), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.
+2. Xun Zhou, Liang Feng, **Xingyu Wu**, Zhichao Lu, Kay Chen Tan. Design Principle Transfer in Neural Architecture Search via Large Language Models. The 39th AAAI Conference on Artificial Intelligence (AAAI'25), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.
 3. Bingbing Jiang, Chenglong Zhang, Xinyan Liang, Peng Zhou, Jie Yang, **Xingyu Wu**, Junyi Guan, Weiping Ding, Weiguo Sheng. Collaborative Similarity Fusion and Consistency Recovery for Incomplete Multi-view Clustering. The 39th AAAI Conference on Artificial Intelligence (AAAI'25), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.
 4. Zhaolong Ling, Jiale Yu, Yiwen Zhang, Debo Cheng, Peng Zhou, **Xingyu Wu**, Bingbing Jiang, Kui Yu. Local Causal Discovery without Causal Sufficiency. The 39th AAAI Conference on Artificial Intelligence (AAAI'25), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.
 5. Zhaolong Ling, Bo Li, Yiwen Zhang, Peng Zhou, **Xingyu Wu**, Kui Yu, Xindong Wu. Causal Discovery Using Weight-Based Conditional Independence Test. ACM Transactions on Knowledge Discovery from Data, vol 19 (1), pp. 1-24, 2024.
@@ -128,6 +128,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - Information Fusion (INFFUS, Elsevier)
 - Pattern Recognition (PR, Elsevier)
 - Neurocomputing (NEUCOM, Elsevier)
+- Applied Soft Computing (ASOC, Elsevier)
 - Electronic Commerce Research and Applications (ECRA, Elsevier)
 - ARRAY (ARRAY, Elsevier)
 - World Wide Web (WWW, Springer)
