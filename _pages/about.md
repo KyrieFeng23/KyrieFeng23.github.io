@@ -90,15 +90,16 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - Large Foundation Model
 
 # 🎖 Honors and Awards
-- National Scholarship, Ministry of Education of the People’s Republic of China, Dec 2016, Dec 2019
-- Outstanding Graduate Award of Sichuan Province, Education Department of Sichuan Province, Jan 2018
-- Outstanding Graduate Award of UESTC, UESTC, Jun 2018
-- AAAI 2020 Travel Award, AAAI, Jan 2020
-- Huawei Scholarship, Huawei, Dec 2020, Dec 2022
-- Intel Scholarship, Intel, Dec 2022
+- First Prize, IEEE CIS FLAME Technical Challenge 2024, Dec 2024
 - Top Performance Award, ACM Multimedia 2022 Social Media Prediction (SMP) Challenge, Dec 2022
 - CAST 2022 Annual Science and Technology Journal Bilingual Dissemination Project, China Association for Science and Technology, Dec, 2022
+- Outstanding Graduate Award of Sichuan Province, Education Department of Sichuan Province, Jan 2018
+- Outstanding Graduate Award of UESTC, UESTC, Jun 2018
 - Outstanding Graduate Award of USTC, USTC, Jun 2023
+- National Scholarship, Ministry of Education of the People’s Republic of China, Dec 2016, Dec 2019
+- Intel Scholarship, Intel, Dec 2022
+- Huawei Scholarship, Huawei, Dec 2020, Dec 2022
+
 
 # ⏳ Professional Services
 
@@ -143,6 +144,8 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - CMC-Computers, Materials & Continua (CMC, Tech Science Press)
 - JMIR Medical Informatics (JMI, JMIR)
 - Mathematics
+
+<a href="https://info.flagcounter.com/JP7Q"><img src="https://s05.flagcounter.com/count2/JP7Q/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_20/viewers_0/labels_0/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
 
 <!-- # 📆 Research Experience
 
