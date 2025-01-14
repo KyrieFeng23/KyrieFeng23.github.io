@@ -92,8 +92,8 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 
 # 🎖 Honors and Awards
 - First Prize, IEEE CIS FLAME Technical Challenge 2024, Dec 2024 ([Link](https://www.polyu.edu.hk/dsai/news-and-events/news/2025/20250113-ieee/))
-- Top Performance Award, ACM Multimedia 2022 Social Media Prediction (SMP) Challenge, Dec 2022
-- CAST 2022 Annual Science and Technology Journal Bilingual Dissemination Project, China Association for Science and Technology, Dec, 2022
+- Top Performance Award, ACM Multimedia 2022 Social Media Prediction (SMP) Challenge, Dec 2022 ([Link](https://smp-challenge.com/2022/leaderboard.html))
+- CAST 2022 Annual Science and Technology Journal Bilingual Dissemination Project, China Association for Science and Technology, Dec, 2022 ([Link](https://note.kxsz.net/share/30700637-16cd-403e-af2b-765752594800))
 - Outstanding Graduate Award of Sichuan Province, Education Department of Sichuan Province, Jan 2018
 - Outstanding Graduate Award of UESTC, UESTC, Jun 2018
 - Outstanding Graduate Award of USTC, USTC, Jun 2023
