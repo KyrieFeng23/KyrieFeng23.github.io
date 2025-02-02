@@ -146,6 +146,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - Soft Computing (SOCO, Springer)
 - International Journal of Fuzzy Systems (IJFS, Springer)
 - Journal of Ambient Intelligence and Humanized Computing (AIHC, Springer)
+- Complex & Intelligent Systems (CAIS, Springer)
 - International Journal of Intelligent Systems (IJIS, Wiley)
 - Intelligent Automation and Soft Computing (IASC, TSI Press)
 - CMC-Computers, Materials & Continua (CMC, Tech Science Press)
