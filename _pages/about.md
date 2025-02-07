@@ -107,6 +107,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 
 #### Senior Program Committee Member (SPC)
 - The 34th International Joint Conference on Artificial Intelligence (IJCAI'25)
+- The 11th IEEE International Conference on Cybernetics and Intelligent Systems Robotics, Automation and Mechatronics (CIS-RAM'24)
 
 #### Program Committee Member (PC)
 - The 35th AAAI Conference on Artificial Intelligence (AAAI'21)
@@ -120,7 +121,6 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - The 2024 International Joint Conference on Neural Networks (IJCNN'24)
 - The 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)
 - The 33rd ACM International Conference on Multimedia (ACM MM'24)
-- The 11th IEEE International Conference on Cybernetics and Intelligent Systems Robotics, Automation and Mechatronics (CIS-RAM'24), Associate Editor
 - The 38th Annual Conference on Neural Information Processing Systems (NeurIPS'24)
 - The 13th International Conference on Learning Representations (ICLR'25)
 - The 28th International Conference on Artificial Intelligence and Statistics (AISTATS'25)
@@ -138,6 +138,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - Pattern Recognition (PR, Elsevier)
 - Swarm and Evolutionary Computation (SWEVO, Elsevier)
 - Information Processing and Management (IPM, Elsevier)
+- Engineering Applications of Artificial Intelligence (EAAI, Elsevier)
 - Neurocomputing (NEUCOM, Elsevier)
 - Applied Soft Computing (ASOC, Elsevier)
 - Electronic Commerce Research and Applications (ECRA, Elsevier)
