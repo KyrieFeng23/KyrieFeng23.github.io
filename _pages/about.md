@@ -20,7 +20,7 @@ redirect_from:
 
 Dr. Xingyu Wu is a postdoctoral fellow in the [Department of Data Science and Artificial Intelligence](https://www.polyu.edu.hk/dsai/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), Hong Kong SAR, China. Before joining PolyU, he received the Bachelor degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2018, and PhD degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Hefei, China, in 2023. Dr. Wu is currently affiliated with the [MIND Lab@PolyU](https://www.mindlab-ai.com/), which is dedicated to advancing the frontiers of nature-inspired artificial intelligence research. He is fortunate to be advised by Prof. Kay Chen Tan and Prof. Jibin Wu in MIND Lab. His research interests encompass a wide range of areas, focusing on automatic machine learning, causality-based machine learning, and large foundation model.
 
-Dr. Wu has actively published in prestigious conferences and journals in machine learning and data mining, including AAAI, IJCAI, ICML, NeurIPS, CIKM, MM, TPAMI, TNNLS, TEVC, TCYB, TKDE, TETCI, TKDD, Information Sciences, and Information Fusion. He is currently serving as the reviewer for 20+ prestigious journals, and (senior) program committee member for 15+ top conferences. For anything about the research, resources, and other related matters, please feel free to contact him via **Wechat (wuxingyu-uestc)** or Email ([xingy.wu@polyu.edu.hk](xingy.wu@polyu.edu.hk)).
+Dr. Wu has actively published in prestigious conferences and journals in machine learning and data mining, including AAAI, IJCAI, ICML, NeurIPS, CIKM, MM, TPAMI, TNNLS, TEVC, TCYB, TKDE, TETCI, TKDD, Information Sciences, and Information Fusion. He is currently serving as the reviewer for 25+ prestigious journals, and (senior) program committee member for 15+ top conferences. For anything about the research, resources, and other related matters, please feel free to contact him via **Wechat (wuxingyu-uestc)** or Email ([xingy.wu@polyu.edu.hk](xingy.wu@polyu.edu.hk)).
 
 
 
@@ -125,6 +125,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - The 13th International Conference on Learning Representations (ICLR'25)
 - The 28th International Conference on Artificial Intelligence and Statistics (AISTATS'25)
 - The 42nd International Conference on Machine Learning (ICML'25)
+- The 34th ACM International Conference on Multimedia (ACM MM'25)
 
 #### Journal Invited Reviewer
 - IEEE Transactions on Knowledge and Data Engineering (TKDE, IEEE)
@@ -134,6 +135,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - IEEE Transactions on Cognitive and Developmental Systems (TCDS, IEEE)
 - IEEE/CAA Journal of Automatica Sinica (JAS, IEEE)
 - INFORMS Journal on Computing (JOC, INFORMS, UTD-24 Journal)
+- Evolutionary Computation (ECJ, MIT Press Journals)
 - Information Fusion (INFFUS, Elsevier)
 - Pattern Recognition (PR, Elsevier)
 - Swarm and Evolutionary Computation (SWEVO, Elsevier)
