@@ -126,6 +126,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - The 28th International Conference on Artificial Intelligence and Statistics (AISTATS'25)
 - The 42nd International Conference on Machine Learning (ICML'25)
 - The 34th ACM International Conference on Multimedia (ACM MM'25)
+- The 2025 IEEE Congress on Evolutionary Computation (CEC'25)
 
 #### Journal Invited Reviewer
 - IEEE Transactions on Knowledge and Data Engineering (TKDE, IEEE)
@@ -134,6 +135,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - IEEE Transactions on Cybernetics (TCYB, IEEE)
 - IEEE Transactions on Cognitive and Developmental Systems (TCDS, IEEE)
 - IEEE/CAA Journal of Automatica Sinica (JAS, IEEE)
+- IEEE Robotics and Automation Letters (RA-L, IEEE)
 - INFORMS Journal on Computing (JOC, INFORMS, UTD-24 Journal)
 - Evolutionary Computation (ECJ, MIT Press Journals)
 - Information Fusion (INFFUS, Elsevier)
@@ -154,7 +156,6 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - Intelligent Automation and Soft Computing (IASC, TSI Press)
 - CMC-Computers, Materials & Continua (CMC, Tech Science Press)
 - JMIR Medical Informatics (JMI, JMIR)
-- Mathematics
 
 <a href="https://info.flagcounter.com/JP7Q"><img src="https://s05.flagcounter.com/count2/JP7Q/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_20/viewers_0/labels_0/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
 
