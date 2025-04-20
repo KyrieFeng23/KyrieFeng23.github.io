@@ -140,6 +140,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - IEEE Transactions on Evolutionary Computation (TEVC, IEEE)
 - IEEE Transactions on Cybernetics (TCYB, IEEE)
 - IEEE Transactions on Cognitive and Developmental Systems (TCDS, IEEE)
+- IEEE Computational Intelligence Magazine (CIM, IEEE)
 - IEEE/CAA Journal of Automatica Sinica (JAS, IEEE)
 - IEEE Robotics and Automation Letters (RA-L, IEEE)
 - INFORMS Journal on Computing (JOC, INFORMS, UTD-24 Journal)
