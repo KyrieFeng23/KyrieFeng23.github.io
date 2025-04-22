@@ -133,6 +133,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - The 2025 International Joint Conference on Neural Networks (IJCNN'25)
 - The 2025 IEEE Congress on Evolutionary Computation (CEC'25)
 - The 39th Annual Conference on Neural Information Processing Systems (NeurIPS'25)
+- The 28th European Conference on Artificial Intelligence (ECAI'25)
 
 #### Journal Invited Reviewer
 - IEEE Transactions on Knowledge and Data Engineering (TKDE, IEEE)
