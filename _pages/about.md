@@ -112,6 +112,9 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 
 # ⏳ Professional Services
 
+#### Organization Services
+- Vice Chair of IEEE Computational Intelligence Society (CIS) Task Force on **LLMs and Computational Intelligence for General-Purpose Artificial Intelligence Systems** ([Link](https://cis.taskforce.ieee.org/gpais/))
+
 #### Senior Program Committee Member (SPC)
 - The 34th International Joint Conference on Artificial Intelligence (IJCAI'25)
 - The 11th IEEE International Conference on Cybernetics and Intelligent Systems Robotics, Automation and Mechatronics (CIS-RAM'24)
@@ -144,9 +147,11 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - IEEE Transactions on Evolutionary Computation (TEVC, IEEE)
 - IEEE Transactions on Cybernetics (TCYB, IEEE)
 - IEEE Transactions on Cognitive and Developmental Systems (TCDS, IEEE)
+- IEEE Transactions on Services Computing (TSC, IEEE)
 - IEEE Computational Intelligence Magazine (CIM, IEEE)
 - IEEE/CAA Journal of Automatica Sinica (JAS, IEEE)
 - IEEE Robotics and Automation Letters (RA-L, IEEE)
+- ACM Transactions on Knowledge Discovery from Data (TKDD, ACM)
 - INFORMS Journal on Computing (JOC, INFORMS, UTD-24 Journal)
 - Evolutionary Computation (ECJ, MIT Press Journals)
 - Information Fusion (INFFUS, Elsevier)
@@ -154,6 +159,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - Swarm and Evolutionary Computation (SWEVO, Elsevier)
 - Information Processing and Management (IPM, Elsevier)
 - Engineering Applications of Artificial Intelligence (EAAI, Elsevier)
+- Knowledge-Based Systems (KNOSYS, Elsevier)
 - Neurocomputing (NEUCOM, Elsevier)
 - Applied Soft Computing (ASOC, Elsevier)
 - Electronic Commerce Research and Applications (ECRA, Elsevier)
