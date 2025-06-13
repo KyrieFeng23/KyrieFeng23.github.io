@@ -18,9 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Dr. Xingyu Wu is a postdoctoral fellow in the [Department of Data Science and Artificial Intelligence](https://www.polyu.edu.hk/dsai/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), Hong Kong SAR, China. Before joining PolyU, he received the Bachelor degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2018, and PhD degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Hefei, China, in 2023. Dr. Wu is currently affiliated with the [MIND Lab@PolyU](https://www.mindlab-ai.com/), which is dedicated to advancing the frontiers of nature-inspired artificial intelligence research. He is fortunate to be advised by Prof. Kay Chen Tan and Prof. Jibin Wu in MIND Lab. His research interests encompass a wide range of areas, focusing on automated machine learning, causality-based machine learning, and large foundation model.
+Dr. Xingyu Wu is a postdoctoral fellow in the [Department of Data Science and Artificial Intelligence](https://www.polyu.edu.hk/dsai/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), Hong Kong SAR, China. Before joining PolyU, he received the Bachelor degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2018, and PhD degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Hefei, China, in 2023. Dr. Wu is currently affiliated with the [MIND Lab@PolyU](https://www.mindlab-ai.com/), which is dedicated to advancing the frontiers of nature-inspired artificial intelligence research. He is fortunate to be advised by Prof. [Kay Chen Tan](https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/) in MIND Lab. His research interests encompass a wide range of areas, focusing on automated machine learning, causality-based machine learning, and large foundation model.
 
-Dr. Wu has actively published in prestigious conferences and journals in machine learning and data mining, including ICML, AAAI, IJCAI, NeurIPS, CIKM, MM, TPAMI, TNNLS, TEVC, TCYB, TKDE, TETCI, TKDD, Information Sciences, and Information Fusion. He is currently serving as the reviewer for 30+ prestigious journals, and (senior) program committee member for 20+ top conferences. For anything about the research, resources, and other related matters, please feel free to contact him via **Wechat (wuxingyu-uestc)** or Email ([xingy.wu@polyu.edu.hk](xingy.wu@polyu.edu.hk)).
+Dr. Wu has actively published in prestigious conferences and journals in machine learning, including ICML, AAAI, IJCAI, NeurIPS, CIKM, TPAMI, TNNLS, TEVC, TCYB, CIM, TETCI, Information Sciences, and Information Fusion. Currently, he serves as Vice Chair of IEEE Computational Intelligence Society (CIS) Task Force on LLMs and Computational Intelligence for General-Purpose Artificial Intelligence Systems. He also serves as the reviewer for 30+ prestigious journals, and (senior) program committee member for 20+ top conferences. 
+
+For anything about the research, resources, and other related matters, please feel free to contact him via **Wechat (wuxingyu-uestc)** or Email ([xingy.wu@polyu.edu.hk](xingy.wu@polyu.edu.hk)). Additionally, we welcome you to follow MIND Lab's official WeChat account for the latest research updates, recruitment information, and more: **MINDLAB POLYU**.
 
 
 # 📖 Educations
@@ -42,7 +44,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-1. Beichen Huang, **Xingyu Wu**, Yu Zhou, Jibin Wu, Liang Feng, Ran Cheng, Kay Chen Tan. Evaluation of Large Language Models as Solution Generators in Black-Box Optimization. IEEE Computational Intelligence Magazine, vol. X (X), pp. XXXX - XXXX, 2025.
+1. Beichen Huang, **Xingyu Wu** *, Yu Zhou, Jibin Wu, Liang Feng, Ran Cheng, Kay Chen Tan. Evaluation of Large Language Models as Solution Generators in Black-Box Optimization. IEEE Computational Intelligence Magazine, vol. X (X), pp. XXXX - XXXX, 2025.
 2. **Xingyu Wu**, Jibin Wu, Yu Zhou, Liang Feng, Kay Chen Tan. Towards Robustness and Explainability of Automatic Algorithm Selection. The 42rd International Conference on Machine Learning (ICML'25, Spotlight), July 13-19, 2025, Vancouver, Canada.
 3. Zhaolong Ling, Mengxiang Guo, **Xingyu Wu** *, Debo Cheng, Peng Zhou, Tianci Li, Zhangling Duan. Gradient-based Causal Feature Selection. The 34th International Joint Conference on Artificial Intelligence (IJCAI'25), August 16-22, 2025, Montreal, Canada.
 4. Zhaolong Ling, Honghui Peng, Yiwen Zhang, Debo Cheng, **Xingyu Wu**, Peng Zhou, Kui Yu. Hybrid Local Causal Discovery. The 34th International Joint Conference on Artificial Intelligence (IJCAI'25), August 16-22, 2025, Montreal, Canada.
@@ -165,6 +167,7 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - Applied Soft Computing (ASOC, Elsevier)
 - Electronic Commerce Research and Applications (ECRA, Elsevier)
 - ARRAY (ARRAY, Elsevier)
+- Measurement (MEAS, Elsevier)
 - World Wide Web (WWW, Springer)
 - Soft Computing (SOCO, Springer)
 - International Journal of Fuzzy Systems (IJFS, Springer)
