@@ -48,7 +48,7 @@ For anything about the research, resources, and other related matters, please fe
 2. **Xingyu Wu**, Jibin Wu, Yu Zhou, Liang Feng, Kay Chen Tan. Towards Robustness and Explainability of Automatic Algorithm Selection. The 42rd International Conference on Machine Learning (ICML'25, Spotlight), July 13-19, 2025, Vancouver, Canada.
 3. Zhaolong Ling, Mengxiang Guo, **Xingyu Wu** *, Debo Cheng, Peng Zhou, Tianci Li, Zhangling Duan. Gradient-based Causal Feature Selection. The 34th International Joint Conference on Artificial Intelligence (IJCAI'25), August 16-22, 2025, Montreal, Canada.
 4. Zhaolong Ling, Honghui Peng, Yiwen Zhang, Debo Cheng, **Xingyu Wu**, Peng Zhou, Kui Yu. Hybrid Local Causal Discovery. The 34th International Joint Conference on Artificial Intelligence (IJCAI'25), August 16-22, 2025, Montreal, Canada.
-5. Sheng-Hao Wu, Yuxiao Huang, **Xingyu Wu**, Liang Feng, Zhi-Hui Zhan, Kay Chen Tan. Learning to Transfer for Evolutionary Multitasking. IEEE Transactions on Cybernetics, vol. X (X), pp. XXXX - XXXX, 2025.
+5. Sheng-Hao Wu, Yuxiao Huang, **Xingyu Wu**, Liang Feng, Zhi-Hui Zhan, Kay Chen Tan. Learning to Transfer for Evolutionary Multitasking. IEEE Transactions on Cybernetics, vol. 55 (7), pp. 3342 - 3355, 2025.
 6. Li Zhang, Dong Li, Yan Zhong, Jiaying Zhu, Rujing Wang, **Xingyu Wu** *, Xue Wang *, Liu Liu. Rethinking Image Forgery Detection and Localization via Regression Perspective. IEEE Transactions on Emerging Topics in Computational Intelligence, vol X (x), pp. xxxx-xxxx, 2025.
 7. Zhaolong Ling, Mengxiang Guo, Jingxuan Wu, Yiwen Zhang, Peng Zhou, **Xingyu Wu**, Kui Yu, Xindong Wu. Label-aware Causal Feature Selection. IEEE Transactions on Knowledge and Data Engineering, vol 37 (3), pp. 1268-1281, 2025.
 8. Xun Zhou, **Xingyu Wu** *, Liang Feng *, Zhichao Lu, Kay Chen Tan. Design Principle Transfer in Neural Architecture Search via Large Language Models. The 39th AAAI Conference on Artificial Intelligence (AAAI'25, Oral), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.
@@ -159,6 +159,7 @@ For anything about the research, resources, and other related matters, please fe
 - Evolutionary Computation (ECJ, MIT Press Journals)
 - Information Fusion (INFFUS, Elsevier)
 - Pattern Recognition (PR, Elsevier)
+- Neural Networks (NEUNET, Elsevier)
 - Swarm and Evolutionary Computation (SWEVO, Elsevier)
 - Information Processing and Management (IPM, Elsevier)
 - Engineering Applications of Artificial Intelligence (EAAI, Elsevier)
@@ -169,6 +170,7 @@ For anything about the research, resources, and other related matters, please fe
 - ARRAY (ARRAY, Elsevier)
 - Measurement (MEAS, Elsevier)
 - World Wide Web (WWW, Springer)
+- The Journal of Supercomputing (TJSC, Springer)
 - Soft Computing (SOCO, Springer)
 - International Journal of Fuzzy Systems (IJFS, Springer)
 - Journal of Ambient Intelligence and Humanized Computing (AIHC, Springer)
