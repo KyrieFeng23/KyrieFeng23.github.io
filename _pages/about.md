@@ -162,6 +162,8 @@ For anything about the research, resources, and other related matters, please fe
 - Neural Networks (NEUNET, Elsevier)
 - Swarm and Evolutionary Computation (SWEVO, Elsevier)
 - Information Processing and Management (IPM, Elsevier)
+- European Journal of Operational Research (EJOR, Elsevier)
+- Communications in Nonlinear Science and Numerical Simulation (CNSNS, Elsevier)
 - Engineering Applications of Artificial Intelligence (EAAI, Elsevier)
 - Knowledge-Based Systems (KNOSYS, Elsevier)
 - Neurocomputing (NEUCOM, Elsevier)
