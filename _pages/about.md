@@ -20,7 +20,7 @@ redirect_from:
 
 Dr. Xingyu Wu is a postdoctoral fellow in the [Department of Data Science and Artificial Intelligence](https://www.polyu.edu.hk/dsai/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), Hong Kong SAR, China. Before joining PolyU, he received the Bachelor degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2018, and PhD degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Hefei, China, in 2023. Dr. Wu is currently affiliated with the [MIND Lab@PolyU](https://www.mindlab-ai.com/), which is dedicated to advancing the frontiers of nature-inspired artificial intelligence research. He is fortunate to be advised by Prof. [Kay Chen Tan](https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/) in MIND Lab. His research interests encompass a wide range of areas, focusing on automated machine learning, causality-based machine learning, and large foundation model.
 
-Dr. Wu has actively published in prestigious conferences and journals in machine learning, including ICML, AAAI, IJCAI, NeurIPS, CIKM, TPAMI, TNNLS, TEVC, TCYB, CIM, TETCI, Information Sciences, and Information Fusion. Currently, he serves as Vice Chair of IEEE Computational Intelligence Society (CIS) Task Force on LLMs and Computational Intelligence for General-Purpose Artificial Intelligence Systems. He also serves as the reviewer for 30+ prestigious journals, and (senior) program committee member for 20+ top conferences. 
+Dr. Wu has actively published in prestigious conferences and journals in machine learning, including ICML, AAAI, IJCAI, NeurIPS, CIKM, TPAMI, TNNLS, TEVC, TCYB, CIM, TETCI, Information Sciences, and Information Fusion. Currently, he serves as Vice Chair of IEEE Computational Intelligence Society (CIS) Task Force on LLMs and Computational Intelligence for General-Purpose Artificial Intelligence Systems. He also serves as the reviewer for 40+ prestigious journals, and (senior) program committee member for 20+ top conferences. 
 
 For anything about the research, resources, and other related matters, please feel free to contact him via **Wechat (wuxingyu-uestc)** or Email ([xingy.wu@polyu.edu.hk](xingy.wu@polyu.edu.hk)). Additionally, we welcome you to follow MIND Lab's official WeChat account for the latest research updates, recruitment information, and more: **MINDLAB POLYU**.
 
@@ -151,12 +151,13 @@ For anything about the research, resources, and other related matters, please fe
 - IEEE Transactions on Cybernetics (TCYB, IEEE)
 - IEEE Transactions on Cognitive and Developmental Systems (TCDS, IEEE)
 - IEEE Transactions on Services Computing (TSC, IEEE)
+- IEEE Journal on Selected Areas in Communications (JSAC, IEEE)
 - IEEE Computational Intelligence Magazine (CIM, IEEE)
 - IEEE/CAA Journal of Automatica Sinica (JAS, IEEE)
 - IEEE Robotics and Automation Letters (RA-L, IEEE)
 - ACM Transactions on Knowledge Discovery from Data (TKDD, ACM)
 - INFORMS Journal on Computing (JOC, INFORMS, UTD-24 Journal)
-- Evolutionary Computation (ECJ, MIT Press Journals)
+- Artificial Intelligence (AIJ, Elsevier)
 - Information Fusion (INFFUS, Elsevier)
 - Pattern Recognition (PR, Elsevier)
 - Neural Networks (NEUNET, Elsevier)
@@ -169,8 +170,11 @@ For anything about the research, resources, and other related matters, please fe
 - Neurocomputing (NEUCOM, Elsevier)
 - Applied Soft Computing (ASOC, Elsevier)
 - Electronic Commerce Research and Applications (ECRA, Elsevier)
+- Automation in Construction (AUTCON, Elsevier)
+- Journal of Information and Intelligence (InteCom, Elsevier)
 - ARRAY (ARRAY, Elsevier)
 - Measurement (MEAS, Elsevier)
+- Evolutionary Computation (ECJ, MIT Press Journals)
 - World Wide Web (WWW, Springer)
 - The Journal of Supercomputing (TJSC, Springer)
 - Soft Computing (SOCO, Springer)
