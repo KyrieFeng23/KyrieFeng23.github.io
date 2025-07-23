@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chenglong Zhang 张成龙"
-  avatar           : "images/Chenglong_Zhang_photo.png" # "images/android-chrome-512x512.png"
+  avatar           : "images/Chenglong_Zhang_photo.jpg" # "images/android-chrome-512x512.png"
   bio              : "Ph.D. Candidate, Nanjing University"
   location         : "Jiangsu, China"
   employer         :
