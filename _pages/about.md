@@ -18,19 +18,21 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Dr. Xingyu Wu is a postdoctoral fellow in the [Department of Data Science and Artificial Intelligence](https://www.polyu.edu.hk/dsai/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), Hong Kong SAR, China. Before joining PolyU, he received the Bachelor degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2018, and PhD degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Hefei, China, in 2023. Dr. Wu is currently affiliated with the [MIND Lab@PolyU](https://www.mindlab-ai.com/), which is dedicated to advancing the frontiers of nature-inspired artificial intelligence research. He is fortunate to be advised by Prof. [Kay Chen Tan](https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/) in MIND Lab. His research interests encompass a wide range of areas, focusing on automated machine learning, causality-based machine learning, and large foundation model.
+Currently, I am pursuing the Ph.D. degree under the advisory of Prof. Huaxiong Li and Prof. Xianzhong Zhou, in the Department of Control Science and Intelligence Engineering, Nanjing University (NJU), Jiangsu, China. Before joining NJU, I received the M.S. degree in 2025 from Hangzhou Normal University, Zhejiang, China, supervised by Prof. Weiguo Sheng and Assoc. Prof. Bingbing Jiang. In 2022, I received the B.Sc. degree from China Jiliang University, Zhejiang, China.
 
-Dr. Wu has actively published in prestigious conferences and journals in machine learning, including ICML, AAAI, IJCAI, NeurIPS, CIKM, TPAMI, TNNLS, TEVC, TCYB, CIM, TETCI, Information Sciences, and Information Fusion. Currently, he serves as Vice Chair of IEEE Computational Intelligence Society (CIS) Task Force on LLMs and Computational Intelligence for General-Purpose Artificial Intelligence Systems. He also serves as the reviewer for 40+ prestigious journals, and (senior) program committee member for 20+ top conferences. 
+My research interests include semi-supervised/unsupervised learning, feature selection, and multi-view data fusion. Until now, I have published some research articles in machine learning and data mining, including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Information Sciences.
 
-For anything about the research, resources, and other related matters, please feel free to contact him via **Wechat (wuxingyu-uestc)** or Email ([xingy.wu@polyu.edu.hk](xingy.wu@polyu.edu.hk)). Additionally, we welcome you to follow MIND Lab's official WeChat account for the latest research updates, recruitment information, and more: **MINDLAB POLYU**.
+
 
 
 # 📖 Educations
 
-- *2014.09 - 2018.06*, University of Electronic Science and Technology of China, Bachelor
-  - Computer Science and Technology, School of Computer Science and Engineering
-- *2018.09 - 2023.06*, University of Science and Technology of China, Ph.D.
-  - Computer Science and Technology, School of Computer Science and Technology
+- *2025.09 - Now*, Nanjing University, Ph.D Candidate
+  - Management Science and Engineering, Department of Control Science and Intelligence Engineering
+- *2022.09 - 2025.06*, Hangzhou Normal University, Master
+  - Computer Science and Technology, School of Information Science and Technology
+- *2018.09 - 2022.06*, China Jiliang University, Bachelor
+  - Information and Computing Science, School of Science
 
 # 💻 Research
 
