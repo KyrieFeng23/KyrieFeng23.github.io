@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Welcome to Xingyu's Homepage"
+title                    : "Welcome to Chenglong's Homepage"
 description              : "Machine Learning"
-repository               : "wuxingyu-ai/wuxingyu-ai.github.io"
+repository               : "ZhangChenglong-AI/ZhangChenglong-AI.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
