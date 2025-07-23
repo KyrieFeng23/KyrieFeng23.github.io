@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xingyu Wu 吴兴宇"
-  avatar           : "images/Xingyu_Wu_photo.png" # "images/android-chrome-512x512.png"
-  bio              : "Postdoctoral Fellow, PolyU"
-  location         : "Hong Kong SAR"
+  name             : "Chenglong Zhang 张成龙"
+  avatar           : "images/Chenglong_Zhang_photo.png" # "images/android-chrome-512x512.png"
+  bio              : "Ph.D. Candidate, Nanjing University"
+  location         : "Jiangsu, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=E10XSzEAAAAJ"
-  email            : "xingy.wu@polyu.edu.hk"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=FecGLOEAAAAJ&hl=zh-CN"
+  email            : "clzhang123@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wuxingyu-ai" # e.g., "github username"
+  github           : #"wuxingyu-ai" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/143/0523.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : #"https://dblp.org/pid/143/0523.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
