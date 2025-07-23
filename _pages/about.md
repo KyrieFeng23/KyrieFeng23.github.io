@@ -20,7 +20,8 @@ redirect_from:
 
 Currently, I am pursuing the Ph.D. degree under the advisory of Prof. Huaxiong Li and Prof. Xianzhong Zhou, in the Department of Control Science and Intelligence Engineering, Nanjing University (NJU), Jiangsu, China. Before joining NJU, I received the M.S. degree in 2025 from Hangzhou Normal University, Zhejiang, China, supervised by Prof. Weiguo Sheng and Assoc. Prof. Bingbing Jiang. In 2022, I received the B.Sc. degree from China Jiliang University, Zhejiang, China.
 
-My research interests include semi-supervised/unsupervised learning, feature selection, and multi-view data fusion <a href='https://scholar.google.com/citations?user=5o9hK3EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwangsiwei2010%2Fwangsiwei2010.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interests include semi-supervised/unsupervised learning, feature selection, and multi-view data fusion
+<a href='https://scholar.google.com/citations?user=FecGLOEAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhangChenglong-AI%2FZhangChenglong-AI.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 Until now, I have published some research articles in machine learning and data mining, including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Information Sciences.
 
 
