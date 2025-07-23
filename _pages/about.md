@@ -48,101 +48,39 @@ My research interests include semi-supervised/unsupervised learning, feature sel
 
 # 📝 Publications 
 1. Bingbing Jiang, **Chenglong Zhang**#, Xinyan Liang#, Peng Zhou, Jie Yang, Xingyu Wu, Junyi Guan, Weiping Ding, Weiguo Sheng. Collaborative Similarity Fusion and Consistency Recovery for Incomplete Multi-view Clustering. The 39th AAAI Conference on Artificial Intelligence (AAAI’25), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.
+2. Zhongli Wang, Jie Yang, Junyi Guan, **Chenglong Zhang**, Xinyan Liang, Bingbing Jiang, Weiguo Sheng. Enhanced Density Peak Clustering for High-dimensional Data. The 39th AAAI Conference on Artificial Intelligence (AAAI’25), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.
+3. Bingbing Jiang, Jun Liu, Zidong Wang, **Chenglong Zhang**#, Jie Yang, Yadi Wang, Weiguo Sheng, Weiping Ding#. Semi-supervised Multi-view Feature Selection with Adaptive Similarity Fusion and Learning. Pattern Recognition, vol 159, pp. 111159, 2025.
+4. **Chenglong Zhang**, Xinyan Liang, Peng Zhou, Zhaolong Ling, Yingwei Zhang, Xingyu Wu, Weiguo Sheng, Bingbing Jiang. Scalable Multi-view Unsupervised Feature Selection with Structure Learning and Fusion. The 32nd ACM International Conference on Multimedia (MM’24), 28 October - 1 November, 2024, Melbourne, Australia.
+5. **Chenglong Zhang**, Yang Fang, Xinyan Liang, Han Zhang, Peng Zhou, Xingyu Wu, Jie Yang, Bingbing Jiang, Weiguo Sheng. Efficient Multi-view Unsupervised Feature Selection with Adaptive Structure Learning and Inference. The 33rd International Joint Conference on Artificial Intelligence (IJCAI’24), August 3-9, 2024, Jeju, South Korea.
+6. **Chenglong Zhang***, Xinjie Zhu *, Zidong Wang, Yan Zhong, Weiguo Sheng, Weiping Ding, Bingbing Jiang. Discriminative Multi-View Fusion via Adaptive Regression. IEEE Transactions on Emerging Topics in Computational Intelligence, vol 8 (6), pp. 3821 - 3833, 2024.
+7. Zihao Xu, **Chenglong Zhang**, Zhaolong Ling, Peng Zhou, Yan Zhong, Li Li, Han Zhang, Weiguo Sheng, Bingbing Jiang. Multi-View Semi-Supervised Feature Selection with Graph Convolutional Networks. The International Joint Conference on Neural Networks (IJCNN’24), June 30, 2024, Yokohama, Japan.
+8. **Chenglong Zhang**, Bingbing Jiang, Zidong Wang, Jie Yang, Yangfeng Lu, Xingyu Wu, Weiguo Sheng. Efficient multi-view semi-supervised feature selection. Information Sciences, vol 649 (11), pp. 119675, 2023.
+9. Bingbing Jiang, **Chenglong Zhang**, Yan Zhong, Yi Liu, Yingwei Zhang, Xingyu Wu, Weiguo Sheng. Adaptive Collaborative Fusion for Multi-view Semi-supervised Classification. Information Fusion, vol 96 (8), pp. 37 - 50, 2023.
 
-
-&emsp; &emsp; **Note**: * indicates the corresponding author. Some papers are Under Review.
-
+&emsp; &emsp; **Note**: * indicates the co-first authors, # indicates the corresponding authors.
 
 
 # 🎖 Honors and Awards
-- First Prize, IEEE CIS FLAME Technical Challenge 2024, Dec 2024 ([Link](https://www.polyu.edu.hk/dsai/news-and-events/news/2025/20250113-ieee/))
-- Top Performance Award, ACM Multimedia 2022 Social Media Prediction (SMP) Challenge, Dec 2022 ([Link](https://smp-challenge.com/2022/leaderboard.html))
-- CAST 2022 Annual Science and Technology Journal Bilingual Dissemination Project (中国科协2022年度科技期刊双语传播工程), China Association for Science and Technology, Dec, 2022 ([Link](https://note.kxsz.net/share/30700637-16cd-403e-af2b-765752594800))
-- Second Prize of The Chinese Mathematics Competitions (全国大学生数学竞赛, CMC), Chinese Mathematical Society, Oct 2015
-- Second Prize of China Undergraduate Mathematical Contest in Modeling (全国大学生数学建模竞赛, CUMCM), China Society for Industrial and Applied Mathematics, Oct 2016
-- Finalist of International Mathematical Contest in Modeling (MCM), Consortium for Mathematics and Its Application, Oct 2017
-- Outstanding Graduate Award of Sichuan Province, Education Department of Sichuan Province, Jan 2018
-- Outstanding Graduate Award of UESTC, UESTC, Jun 2018
-- National Scholarship, Ministry of Education of the People’s Republic of China, Dec 2016, Dec 2019
-- Intel Scholarship, Intel, Dec 2022
-- Huawei Scholarship, Huawei, Dec 2020, Dec 2022
-- Outstanding Graduate Award of USTC, USTC, Jun 2023
+- Outstanding Graduate Award of Zhejiang Province, Education Department of Zhejiang Province, Jan 2025
+- Outstanding Graduate Award of Hangzhou Normal University, Hangzhou Normal University, Jun 2025
+- National Scholarship, Ministry of Education of the People’s Republic of China, Dec 2024
+- Outstanding Graduate Award of Zhejiang Province, Education Department of Zhejiang Province, Jan 2022
+- Outstanding Graduate Award of China Jiliang University, China Jiliang University, Jun 2022
+
 
 
 # ⏳ Professional Services
 
-#### Organization Services
-- Vice Chair of IEEE Computational Intelligence Society (CIS) Task Force on **LLMs and Computational Intelligence for General-Purpose Artificial Intelligence Systems** ([Link](https://cis.taskforce.ieee.org/gpais/))
-
-#### Senior Program Committee Member (SPC)
-- The 34th International Joint Conference on Artificial Intelligence (IJCAI'25)
-- The 11th IEEE International Conference on Cybernetics and Intelligent Systems Robotics, Automation and Mechatronics (CIS-RAM'24)
-
 #### Program Committee Member (PC)
-- The 35th AAAI Conference on Artificial Intelligence (AAAI'21)
-- The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP'21)
-- The 36th AAAI Conference on Artificial Intelligence (AAAI'22)
-- The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP'22)
-- The 2023 Future of Information and Communication Conference (FICC'23)
-- The 37th AAAI Conference on Artificial Intelligence (AAAI'23)
-- The 2023 International Joint Conference on Neural Networks (IJCNN'23)
-- The 38th AAAI Conference on Artificial Intelligence (AAAI'24)
-- The 2024 International Joint Conference on Neural Networks (IJCNN'24)
-- The 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)
-- The 33rd ACM International Conference on Multimedia (ACM MM'24)
-- The 38th Annual Conference on Neural Information Processing Systems (NeurIPS'24)
-- The 13th International Conference on Learning Representations (ICLR'25)
-- The 28th International Conference on Artificial Intelligence and Statistics (AISTATS'25)
-- The 42nd International Conference on Machine Learning (ICML'25)
-- The 34th ACM International Conference on Multimedia (ACM MM'25)
-- The 2025 International Joint Conference on Neural Networks (IJCNN'25)
-- The 2025 IEEE Congress on Evolutionary Computation (CEC'25)
-- The 39th Annual Conference on Neural Information Processing Systems (NeurIPS'25)
-- The 28th European Conference on Artificial Intelligence (ECAI'25)
+- The 40th AAAI Conference on Artificial Intelligence (AAAI’26)
+- The 34th ACM International Conference on Multimedia (ACM MM’25)
+- The 13th International Conference on Learning Representations (ICLR’25)
+- The 2025 International Joint Conference on Neural Networks (IJCNN’25)
 
 #### Journal Invited Reviewer
-- IEEE Transactions on Knowledge and Data Engineering (TKDE, IEEE)
-- IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IEEE)
-- IEEE Transactions on Evolutionary Computation (TEVC, IEEE)
-- IEEE Transactions on Cybernetics (TCYB, IEEE)
-- IEEE Transactions on Cognitive and Developmental Systems (TCDS, IEEE)
-- IEEE Transactions on Services Computing (TSC, IEEE)
-- IEEE Journal on Selected Areas in Communications (JSAC, IEEE)
-- IEEE Computational Intelligence Magazine (CIM, IEEE)
-- IEEE/CAA Journal of Automatica Sinica (JAS, IEEE)
-- IEEE Robotics and Automation Letters (RA-L, IEEE)
-- ACM Transactions on Knowledge Discovery from Data (TKDD, ACM)
-- INFORMS Journal on Computing (JOC, INFORMS, UTD-24 Journal)
-- Artificial Intelligence (AIJ, Elsevier)
-- Information Fusion (INFFUS, Elsevier)
-- Pattern Recognition (PR, Elsevier)
-- Neural Networks (NEUNET, Elsevier)
-- Swarm and Evolutionary Computation (SWEVO, Elsevier)
+- Information Science (INS, ELSEVIER)
 - Information Processing and Management (IPM, Elsevier)
-- European Journal of Operational Research (EJOR, Elsevier)
-- Communications in Nonlinear Science and Numerical Simulation (CNSNS, Elsevier)
-- Engineering Applications of Artificial Intelligence (EAAI, Elsevier)
-- Knowledge-Based Systems (KNOSYS, Elsevier)
-- Neurocomputing (NEUCOM, Elsevier)
-- Applied Soft Computing (ASOC, Elsevier)
-- Electronic Commerce Research and Applications (ECRA, Elsevier)
-- Automation in Construction (AUTCON, Elsevier)
-- Journal of Information and Intelligence (InteCom, Elsevier)
-- ARRAY (ARRAY, Elsevier)
-- Measurement (MEAS, Elsevier)
-- Evolutionary Computation (ECJ, MIT Press Journals)
-- World Wide Web (WWW, Springer)
-- The Journal of Supercomputing (TJSC, Springer)
-- Soft Computing (SOCO, Springer)
-- International Journal of Fuzzy Systems (IJFS, Springer)
-- Journal of Ambient Intelligence and Humanized Computing (AIHC, Springer)
-- Complex & Intelligent Systems (CAIS, Springer)
-- International Journal of Intelligent Systems (IJIS, Wiley)
-- Intelligent Automation and Soft Computing (IASC, TSI Press)
-- CMC-Computers, Materials & Continua (CMC, Tech Science Press)
-- JMIR Medical Informatics (JMI, JMIR)
 
-<a href="https://info.flagcounter.com/JP7Q"><img src="https://s05.flagcounter.com/count2/JP7Q/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_20/viewers_0/labels_0/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
 
 <!-- # 📆 Research Experience
 
