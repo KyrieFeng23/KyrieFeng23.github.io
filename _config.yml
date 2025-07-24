@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chenglong Zhang 张成龙"
-  avatar           : "images/Chenglong_Zhang_photo.jpg" # "images/android-chrome-512x512.png"
-  bio              : "Ph.D. Candidate, Nanjing University"
-  location         : "Jiangsu, China"
+  name             : "Yufeng Feng 冯余峰"
+  avatar           : "images/android-chrome-512x512.png" # "images/android-chrome-512x512.png"
+  bio              : "Ph.D. Candidate, Beihang University"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=FecGLOEAAAAJ&hl=zh-CN"
-  email            : "clzhang123@163.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Ea4nWpUAAAAJ&hl=zh-CN"
+  email            : "fengyufeng2014@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
