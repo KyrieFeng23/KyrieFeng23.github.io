@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yufeng Feng 冯余峰"
-  avatar           : "images/android-chrome-512x512.png" # "images/android-chrome-512x512.png"
+  avatar           : "images/fyf-512x512.png" # "images/android-chrome-512x512.png"
   bio              : "Ph.D. Candidate, Beihang University"
   location         : "Hangzhou, China"
   employer         :
